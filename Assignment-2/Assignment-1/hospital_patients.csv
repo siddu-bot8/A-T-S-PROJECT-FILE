@@ -1,0 +1,31 @@
+patient_id,name,age,gender,blood_type,admission_date,discharge_date,diagnosis,doctor,ward,treatment_cost,insurance,readmitted,weight_kg,height_cm,blood_pressure_systolic,blood_pressure_diastolic,cholesterol,glucose_level,satisfaction_score
+P001,Aarav Sharma,45,Male,A+,2024-01-05,2024-01-12,Hypertension,Dr. Mehta,Cardiology,45000,Yes,No,78,172,145,95,210,95,4
+P002,Priya Patel,32,Female,B+,2024-01-06,,Diabetes,Dr. Rao,Endocrinology,62000,No,No,65,160,120,80,185,210,
+P003,Rohan Verma,58,Male,O+,2024-01-07,2024-01-20,Heart Disease,Dr. Mehta,Cardiology,125000,Yes,Yes,92,175,160,100,270,105,2
+P004,Sneha Iyer,27,Female,AB+,2024-01-08,2024-01-10,Fever,Dr. Singh,General,8500,Yes,No,55,158,110,70,165,88,5
+P005,Vikram Nair,67,Male,A-,2024-01-09,,Diabetes,Dr. Rao,Endocrinology,78000,No,Yes,88,168,150,92,245,190,
+P006,Anjali Gupta,41,Female,B-,2024-01-10,2024-01-18,Hypertension,Dr. Mehta,Cardiology,38000,Yes,No,70,162,138,88,220,98,3
+P007,Kiran Kumar,53,Male,O-,2024-01-11,2024-01-25,Heart Disease,Dr. Mehta,Cardiology,145000,Yes,Yes,95,178,165,105,285,112,1
+P008,Meera Reddy,38,Female,A+,2024-01-12,2024-01-14,Fever,Dr. Singh,General,9200,,No,58,155,115,72,170,90,4
+P009,Arjun Das,62,Male,B+,2024-01-13,2024-01-28,Heart Disease,Dr. Mehta,Cardiology,138000,Yes,Yes,89,170,158,98,265,108,2
+P010,Divya Krishnan,29,Female,O+,2024-01-14,2024-01-16,Fever,Dr. Singh,General,7800,Yes,No,52,157,112,68,160,85,5
+P011,Rahul Joshi,55,Male,A+,2024-01-15,,Diabetes,Dr. Rao,Endocrinology,72000,No,No,84,173,142,88,235,185,
+P012,Pooja Sharma,44,Female,AB-,2024-01-16,2024-01-22,Hypertension,Dr. Mehta,Cardiology,41000,Yes,No,68,164,140,90,215,96,4
+P013,Sanjay Pillai,71,Male,B+,2024-01-17,2024-02-01,Heart Disease,Dr. Mehta,Cardiology,158000,,Yes,96,165,170,108,295,115,1
+P014,Lakshmi Nair,36,Female,O+,2024-01-18,2024-01-20,Fever,Dr. Singh,General,8100,Yes,No,56,159,118,74,168,87,5
+P015,Aditya Rao,48,Male,A+,2024-01-19,2024-01-26,Hypertension,Dr. Mehta,Cardiology,43000,Yes,No,82,176,148,92,225,100,3
+P016,Kavitha Menon,33,Female,B+,2024-01-20,,Diabetes,Dr. Rao,Endocrinology,68000,No,No,61,161,125,82,178,198,
+P017,Rajesh Choudhary,60,Male,A-,2024-01-21,2024-02-03,Heart Disease,Dr. Mehta,Cardiology,142000,Yes,Yes,91,172,162,102,278,110,2
+P018,Sunita Agarwal,50,Female,O+,2024-01-22,2024-01-29,Hypertension,Dr. Singh,Cardiology,39000,Yes,No,72,163,142,90,218,97,4
+P019,Nikhil Bose,25,Male,B-,2024-01-23,2024-01-25,Fever,Dr. Singh,General,8800,Yes,No,68,180,118,76,172,89,4
+P020,Deepa Varma,57,Female,A+,2024-01-24,,Diabetes,Dr. Rao,Endocrinology,74000,No,Yes,76,160,132,84,240,195,
+P021,Gaurav Tiwari,43,Male,O+,2024-01-25,2024-02-02,Heart Disease,Dr. Mehta,Cardiology,132000,Yes,No,87,174,155,96,258,106,3
+P022,Nandita Roy,39,Female,AB+,2024-01-26,2024-01-28,Fever,Dr. Singh,General,8300,Yes,No,54,156,114,70,162,86,5
+P023,Suresh Pillai,65,Male,B+,2024-01-27,2024-02-08,Heart Disease,Dr. Mehta,Cardiology,151000,,Yes,93,169,168,106,288,113,1
+P024,Rekha Sharma,46,Female,A+,2024-01-28,2024-02-04,Hypertension,Dr. Mehta,Cardiology,42000,Yes,No,69,165,144,92,222,99,3
+P025,Manish Khanna,54,Male,O-,2024-01-29,,Diabetes,Dr. Rao,Endocrinology,76000,No,Yes,86,171,148,90,248,192,
+P026,Tara Balan,31,Female,B+,2024-01-30,2024-02-01,Fever,Dr. Singh,General,8600,Yes,No,53,158,116,72,166,88,4
+P027,Vivek Sinha,69,Male,A+,2024-01-31,2024-02-14,Heart Disease,Dr. Mehta,Cardiology,162000,Yes,Yes,97,166,172,110,298,118,1
+P028,Anita Desai,35,Female,O+,2024-02-01,2024-02-03,Fever,Dr. Singh,General,7900,Yes,No,57,160,112,70,164,86,5
+P029,Kartik Malhotra,52,Male,B-,2024-02-02,2024-02-10,Hypertension,Dr. Mehta,Cardiology,44000,Yes,No,80,177,146,90,228,101,3
+P030,Uma Krishnamurthy,61,Female,A-,2024-02-03,,Diabetes,Dr. Rao,Endocrinology,70000,No,No,74,158,130,82,238,188,

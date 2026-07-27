@@ -1,0 +1,8 @@
+print("************ARTHMETIC OPERATIONS**************")
+num1 = int(input("enter a number: "))
+num2 = int(input("enter b number: "))
+print("***output:")
+print("Additon:",num1+num2)
+print("Difference: ",num1-num2 )
+print("Product:",num1*num2 )
+print("Division: ",float(num1/num2))

@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Disease_Category,Hospital_Department,Days_Admitted,Treatment_Cost,Blood_Pressure,Diabetes,Readmission_Status
+P1001,53,Female,Diabetes,Endocrinology,7,327973,162,No,Readmitted
+P1002,55,Male,Oncology,Cancer Care,1,286223,143,Yes,Not Readmitted
+P1003,19,Female,Diabetes,Endocrinology,5,71144,131,Yes,Readmitted
+P1004,24,Male,Neurology,Neuro Care,1,143655,108,No,Not Readmitted
+P1005,75,Male,Orthopedic,Bone Care,6,382419,120,Yes,Not Readmitted
+P1006,71,Male,Oncology,Cancer Care,10,191138,131,No,Not Readmitted
+P1007,30,Female,Oncology,Cancer Care,1,342133,136,Yes,Not Readmitted
+P1008,50,Female,Diabetes,Endocrinology,6,49618,148,No,Not Readmitted
+P1009,37,Female,Cardiology,Heart Care,15,246757,131,Yes,Readmitted
+P1010,39,Male,Orthopedic,Bone Care,3,207212,172,No,Readmitted
+P1011,64,Male,Cardiology,Heart Care,5,376184,94,No,Readmitted
+P1012,80,Female,Cardiology,Heart Care,10,254273,146,No,Not Readmitted
+P1013,77,Male,Oncology,Cancer Care,1,469530,106,Yes,Not Readmitted
+P1014,73,Male,Neurology,Neuro Care,1,185233,120,No,Not Readmitted
+P1015,87,Male,Neurology,Neuro Care,6,278979,152,No,Not Readmitted
+P1016,54,Male,Cardiology,Heart Care,14,474780,150,Yes,Readmitted
+P1017,42,Male,Oncology,Cancer Care,1,166675,116,No,Not Readmitted
+P1018,83,Female,Diabetes,Endocrinology,8,107746,137,No,Not Readmitted
+P1019,59,Male,Diabetes,Endocrinology,3,300539,113,Yes,Not Readmitted
+P1020,70,Female,Orthopedic,Bone Care,14,247923,157,Yes,Readmitted
+P1021,41,Female,Cardiology,Heart Care,1,269383,142,Yes,Readmitted
+P1022,45,Male,Cardiology,Heart Care,8,259310,171,Yes,Readmitted
+P1023,69,Female,Orthopedic,Bone Care,13,240476,108,No,Not Readmitted
+P1024,84,Female,Orthopedic,Bone Care,15,45072,144,Yes,Readmitted
+P1025,41,Male,Cardiology,Heart Care,4,136305,173,Yes,Not Readmitted
+P1026,58,Male,Orthopedic,Bone Care,7,304031,99,No,Not Readmitted
+P1027,28,Male,Cardiology,Heart Care,6,215901,112,Yes,Not Readmitted
+P1028,52,Female,Oncology,Cancer Care,4,206814,159,Yes,Readmitted
+P1029,75,Male,Cardiology,Heart Care,8,200335,148,No,Not Readmitted
+P1030,80,Male,Orthopedic,Bone Care,15,459240,164,Yes,Readmitted
+P1031,31,Male,Orthopedic,Bone Care,14,460605,125,Yes,Readmitted
+P1032,57,Male,Orthopedic,Bone Care,12,454972,118,Yes,Readmitted
+P1033,61,Female,Oncology,Cancer Care,9,63614,121,Yes,Readmitted
+P1034,19,Female,Neurology,Neuro Care,10,235670,94,Yes,Not Readmitted
+P1035,48,Male,Oncology,Cancer Care,1,156815,92,Yes,Not Readmitted
+P1036,34,Male,Diabetes,Endocrinology,2,160442,118,No,Not Readmitted
+P1037,33,Male,Diabetes,Endocrinology,6,84299,176,No,Not Readmitted
+P1038,79,Male,Neurology,Neuro Care,12,356197,170,Yes,Not Readmitted
+P1039,62,Male,Cardiology,Heart Care,14,344636,120,Yes,Readmitted
+P1040,43,Male,Neurology,Neuro Care,9,230800,131,No,Not Readmitted
+P1041,67,Female,Cardiology,Heart Care,5,88529,93,No,Readmitted
+P1042,35,Female,Cardiology,Heart Care,10,308840,129,Yes,Readmitted
+P1043,81,Male,Oncology,Cancer Care,10,217804,164,Yes,Readmitted
+P1044,22,Female,Oncology,Cancer Care,3,381253,165,No,Not Readmitted
+P1045,18,Male,Orthopedic,Bone Care,10,127663,163,No,Not Readmitted
+P1046,79,Female,Cardiology,Heart Care,4,332649,126,Yes,Readmitted
+P1047,64,Male,Cardiology,Heart Care,9,356332,166,No,Readmitted
+P1048,54,Male,Diabetes,Endocrinology,15,65443,144,No,Not Readmitted
+P1049,39,Male,Orthopedic,Bone Care,8,314564,168,Yes,Not Readmitted
+P1050,89,Female,Neurology,Neuro Care,8,158220,128,No,Readmitted
+P1051,88,Female,Orthopedic,Bone Care,1,116473,123,No,Not Readmitted
+P1052,29,Male,Cardiology,Heart Care,4,402102,172,Yes,Readmitted
+P1053,39,Female,Oncology,Cancer Care,15,433016,140,Yes,Readmitted
+P1054,80,Female,Neurology,Neuro Care,15,350698,177,No,Readmitted
+P1055,73,Female,Oncology,Cancer Care,15,364298,125,Yes,Readmitted
+P1056,25,Female,Orthopedic,Bone Care,13,144476,122,Yes,Not Readmitted
+P1057,41,Male,Neurology,Neuro Care,9,99282,98,Yes,Not Readmitted
+P1058,64,Male,Neurology,Neuro Care,15,361650,123,Yes,Not Readmitted
+P1059,46,Male,Orthopedic,Bone Care,3,387837,168,No,Not Readmitted
+P1060,61,Female,Cardiology,Heart Care,13,150733,132,No,Not Readmitted
+P1061,78,Female,Oncology,Cancer Care,13,356898,162,No,Readmitted
+P1062,90,Male,Cardiology,Heart Care,6,253888,179,No,Readmitted
+P1063,72,Male,Diabetes,Endocrinology,8,211965,131,No,Not Readmitted
+P1064,77,Male,Orthopedic,Bone Care,13,16377,141,No,Not Readmitted
+P1065,69,Female,Cardiology,Heart Care,7,47205,179,No,Readmitted
+P1066,76,Male,Neurology,Neuro Care,15,73164,149,No,Readmitted
+P1067,64,Male,Neurology,Neuro Care,13,354836,160,Yes,Readmitted
+P1068,71,Female,Oncology,Cancer Care,4,365273,103,Yes,Not Readmitted
+P1069,35,Male,Neurology,Neuro Care,7,99525,162,Yes,Not Readmitted
+P1070,21,Male,Orthopedic,Bone Care,7,164881,124,Yes,Not Readmitted
+P1071,88,Female,Diabetes,Endocrinology,2,276620,172,Yes,Readmitted
+P1072,44,Female,Cardiology,Heart Care,5,392699,177,No,Not Readmitted
+P1073,84,Male,Orthopedic,Bone Care,12,21674,114,No,Not Readmitted
+P1074,47,Female,Cardiology,Heart Care,4,286950,93,No,Readmitted
+P1075,54,Female,Oncology,Cancer Care,8,490908,173,No,Not Readmitted
+P1076,58,Female,Diabetes,Endocrinology,12,189416,118,No,Readmitted
+P1077,26,Male,Neurology,Neuro Care,10,255261,172,No,Not Readmitted
+P1078,81,Female,Cardiology,Heart Care,14,134339,168,No,Not Readmitted
+P1079,69,Female,Diabetes,Endocrinology,5,478724,144,No,Readmitted
+P1080,69,Female,Cardiology,Heart Care,9,106739,171,Yes,Readmitted
+P1081,24,Male,Diabetes,Endocrinology,4,498571,103,Yes,Not Readmitted
+P1082,89,Female,Oncology,Cancer Care,2,247870,115,No,Not Readmitted
+P1083,85,Male,Neurology,Neuro Care,8,213655,175,No,Readmitted
+P1084,45,Female,Oncology,Cancer Care,13,335087,109,Yes,Not Readmitted
+P1085,31,Male,Neurology,Neuro Care,6,202819,162,Yes,Not Readmitted
+P1086,21,Male,Oncology,Cancer Care,7,300156,144,No,Readmitted
+P1087,28,Female,Oncology,Cancer Care,10,201928,129,Yes,Not Readmitted
+P1088,54,Female,Cardiology,Heart Care,8,159374,148,Yes,Readmitted
+P1089,45,Male,Neurology,Neuro Care,8,125634,101,Yes,Not Readmitted
+P1090,54,Female,Diabetes,Endocrinology,5,410183,160,Yes,Not Readmitted
+P1091,73,Female,Neurology,Neuro Care,13,47083,140,Yes,Not Readmitted
+P1092,71,Male,Oncology,Cancer Care,14,106056,161,Yes,Not Readmitted
+P1093,20,Female,Cardiology,Heart Care,15,470319,165,Yes,Readmitted
+P1094,85,Female,Neurology,Neuro Care,10,36314,154,Yes,Readmitted
+P1095,52,Male,Neurology,Neuro Care,3,382845,159,Yes,Readmitted
+P1096,60,Male,Oncology,Cancer Care,12,426307,110,No,Not Readmitted
+P1097,39,Male,Diabetes,Endocrinology,14,35823,143,Yes,Readmitted
+P1098,83,Male,Oncology,Cancer Care,2,142346,151,Yes,Readmitted
+P1099,65,Male,Diabetes,Endocrinology,7,479007,112,No,Not Readmitted
+P1100,22,Female,Oncology,Cancer Care,8,101442,134,No,Not Readmitted
+P1101,33,Female,Diabetes,Endocrinology,1,365448,112,No,Not Readmitted
+P1102,85,Female,Neurology,Neuro Care,6,418314,150,Yes,Readmitted
+P1103,67,Male,Neurology,Neuro Care,13,365804,141,Yes,Readmitted
+P1104,57,Male,Oncology,Cancer Care,4,331576,159,Yes,Readmitted
+P1105,50,Female,Diabetes,Endocrinology,2,78023,137,No,Not Readmitted
+P1106,51,Male,Cardiology,Heart Care,2,361725,109,Yes,Readmitted
+P1107,88,Male,Orthopedic,Bone Care,3,316766,179,Yes,Readmitted
+P1108,32,Male,Cardiology,Heart Care,1,175577,97,No,Not Readmitted
+P1109,59,Female,Orthopedic,Bone Care,12,99056,99,Yes,Not Readmitted
+P1110,24,Female,Cardiology,Heart Care,15,74187,121,No,Not Readmitted
+P1111,65,Female,Neurology,Neuro Care,14,427870,100,No,Not Readmitted
+P1112,38,Female,Cardiology,Heart Care,15,352850,164,Yes,Readmitted
+P1113,53,Female,Neurology,Neuro Care,15,427138,97,No,Not Readmitted
+P1114,68,Female,Orthopedic,Bone Care,15,150768,108,Yes,Not Readmitted
+P1115,87,Female,Neurology,Neuro Care,2,325554,127,No,Not Readmitted
+P1116,79,Male,Orthopedic,Bone Care,11,154359,128,Yes,Readmitted
+P1117,33,Male,Oncology,Cancer Care,4,104224,145,No,Not Readmitted
+P1118,88,Female,Orthopedic,Bone Care,9,335264,130,Yes,Readmitted
+P1119,22,Male,Diabetes,Endocrinology,1,465081,163,Yes,Not Readmitted
+P1120,70,Male,Orthopedic,Bone Care,10,269072,106,Yes,Readmitted
+P1121,84,Male,Neurology,Neuro Care,3,315393,143,Yes,Not Readmitted
+P1122,62,Female,Oncology,Cancer Care,4,201554,131,No,Not Readmitted
+P1123,18,Male,Diabetes,Endocrinology,5,10113,177,No,Readmitted
+P1124,69,Female,Neurology,Neuro Care,1,403952,118,Yes,Readmitted
+P1125,31,Male,Diabetes,Endocrinology,13,293117,95,Yes,Not Readmitted
+P1126,83,Male,Orthopedic,Bone Care,3,374139,170,Yes,Not Readmitted
+P1127,76,Male,Cardiology,Heart Care,3,108508,179,Yes,Readmitted
+P1128,28,Female,Neurology,Neuro Care,10,488082,130,No,Not Readmitted
+P1129,40,Female,Diabetes,Endocrinology,2,145674,164,No,Readmitted
+P1130,20,Male,Diabetes,Endocrinology,10,278841,175,No,Readmitted
+P1131,41,Male,Orthopedic,Bone Care,9,90519,132,Yes,Readmitted
+P1132,77,Male,Diabetes,Endocrinology,7,227973,121,No,Not Readmitted
+P1133,51,Male,Oncology,Cancer Care,8,378285,145,Yes,Not Readmitted
+P1134,23,Female,Neurology,Neuro Care,3,305297,175,Yes,Readmitted
+P1135,89,Male,Orthopedic,Bone Care,8,108419,139,Yes,Not Readmitted
+P1136,53,Male,Orthopedic,Bone Care,3,483833,95,No,Not Readmitted
+P1137,39,Female,Oncology,Cancer Care,8,126877,143,Yes,Readmitted
+P1138,76,Male,Diabetes,Endocrinology,1,484206,130,No,Not Readmitted
+P1139,87,Male,Orthopedic,Bone Care,1,385838,158,Yes,Readmitted
+P1140,37,Male,Neurology,Neuro Care,14,427976,107,Yes,Not Readmitted
+P1141,27,Male,Diabetes,Endocrinology,11,414866,127,Yes,Readmitted
+P1142,71,Female,Neurology,Neuro Care,13,91430,97,No,Not Readmitted
+P1143,60,Male,Orthopedic,Bone Care,14,28136,134,Yes,Readmitted
+P1144,24,Male,Cardiology,Heart Care,3,401076,114,Yes,Not Readmitted
+P1145,43,Male,Diabetes,Endocrinology,3,241662,179,Yes,Readmitted
+P1146,57,Male,Orthopedic,Bone Care,1,220498,167,Yes,Not Readmitted
+P1147,86,Male,Neurology,Neuro Care,7,198457,157,Yes,Readmitted
+P1148,58,Male,Neurology,Neuro Care,14,277329,105,Yes,Not Readmitted
+P1149,53,Male,Orthopedic,Bone Care,15,285364,166,No,Not Readmitted
+P1150,66,Female,Cardiology,Heart Care,9,37649,107,Yes,Not Readmitted
+P1151,22,Female,Diabetes,Endocrinology,14,30657,107,No,Not Readmitted
+P1152,85,Male,Cardiology,Heart Care,1,182451,102,No,Not Readmitted
+P1153,84,Male,Cardiology,Heart Care,4,492354,115,Yes,Readmitted
+P1154,89,Female,Oncology,Cancer Care,7,408307,119,No,Not Readmitted
+P1155,72,Female,Diabetes,Endocrinology,11,206449,150,Yes,Readmitted
+P1156,82,Female,Cardiology,Heart Care,9,431947,91,No,Not Readmitted
+P1157,90,Female,Orthopedic,Bone Care,9,191825,91,Yes,Readmitted
+P1158,52,Male,Orthopedic,Bone Care,2,16666,165,Yes,Readmitted
+P1159,45,Female,Orthopedic,Bone Care,3,127578,148,Yes,Readmitted
+P1160,78,Female,Neurology,Neuro Care,7,98104,157,Yes,Readmitted
+P1161,37,Male,Orthopedic,Bone Care,10,33321,134,No,Not Readmitted
+P1162,38,Male,Cardiology,Heart Care,12,444050,111,Yes,Readmitted
+P1163,30,Male,Oncology,Cancer Care,11,149188,147,Yes,Readmitted
+P1164,68,Male,Diabetes,Endocrinology,13,499056,129,Yes,Readmitted
+P1165,61,Male,Neurology,Neuro Care,15,72090,101,No,Not Readmitted
+P1166,24,Female,Oncology,Cancer Care,9,228037,159,No,Not Readmitted
+P1167,54,Female,Diabetes,Endocrinology,5,127186,109,No,Not Readmitted
+P1168,71,Female,Neurology,Neuro Care,9,326802,97,Yes,Readmitted
+P1169,71,Female,Orthopedic,Bone Care,7,496314,135,No,Not Readmitted
+P1170,62,Female,Neurology,Neuro Care,6,183219,155,No,Not Readmitted
+P1171,56,Female,Diabetes,Endocrinology,14,291527,91,Yes,Not Readmitted
+P1172,58,Male,Neurology,Neuro Care,2,151971,129,No,Not Readmitted
+P1173,77,Male,Oncology,Cancer Care,13,65360,175,No,Not Readmitted
+P1174,31,Male,Diabetes,Endocrinology,11,259575,114,No,Not Readmitted
+P1175,19,Male,Neurology,Neuro Care,5,62110,133,No,Not Readmitted
+P1176,88,Female,Neurology,Neuro Care,6,192925,161,Yes,Not Readmitted
+P1177,78,Male,Diabetes,Endocrinology,2,213154,153,Yes,Readmitted
+P1178,31,Male,Cardiology,Heart Care,1,444426,171,No,Not Readmitted
+P1179,21,Male,Oncology,Cancer Care,13,266782,92,Yes,Not Readmitted
+P1180,83,Male,Orthopedic,Bone Care,11,421386,172,Yes,Readmitted
+P1181,28,Male,Cardiology,Heart Care,1,29189,171,Yes,Readmitted
+P1182,73,Female,Diabetes,Endocrinology,3,451240,170,No,Readmitted
+P1183,52,Female,Diabetes,Endocrinology,12,21982,176,Yes,Not Readmitted
+P1184,80,Female,Neurology,Neuro Care,5,246932,167,No,Not Readmitted
+P1185,58,Male,Oncology,Cancer Care,4,100460,143,No,Not Readmitted
+P1186,36,Female,Neurology,Neuro Care,7,41516,110,Yes,Readmitted
+P1187,78,Female,Neurology,Neuro Care,12,405286,124,No,Not Readmitted
+P1188,45,Female,Orthopedic,Bone Care,7,291526,159,No,Not Readmitted
+P1189,73,Female,Neurology,Neuro Care,11,49477,114,No,Not Readmitted
+P1190,78,Male,Cardiology,Heart Care,8,117073,158,Yes,Readmitted
+P1191,29,Male,Oncology,Cancer Care,8,125056,176,Yes,Not Readmitted
+P1192,82,Female,Cardiology,Heart Care,8,33439,150,Yes,Readmitted
+P1193,20,Female,Neurology,Neuro Care,5,446202,90,No,Not Readmitted
+P1194,75,Male,Diabetes,Endocrinology,6,160737,175,Yes,Readmitted
+P1195,87,Male,Orthopedic,Bone Care,1,26425,126,No,Readmitted
+P1196,79,Female,Neurology,Neuro Care,12,419300,121,Yes,Readmitted
+P1197,85,Male,Cardiology,Heart Care,8,323134,100,Yes,Readmitted
+P1198,82,Female,Orthopedic,Bone Care,3,359590,94,No,Not Readmitted
+P1199,25,Male,Orthopedic,Bone Care,10,359430,165,No,Readmitted
+P1200,20,Male,Neurology,Neuro Care,6,399189,140,Yes,Not Readmitted
+P1201,72,Male,Orthopedic,Bone Care,7,367367,138,Yes,Not Readmitted
+P1202,41,Male,Cardiology,Heart Care,13,253981,179,No,Readmitted
+P1203,32,Female,Diabetes,Endocrinology,2,388841,141,Yes,Readmitted
+P1204,25,Female,Diabetes,Endocrinology,14,196722,128,No,Readmitted
+P1205,30,Female,Neurology,Neuro Care,7,87164,161,No,Not Readmitted
+P1206,59,Female,Neurology,Neuro Care,11,441308,125,No,Not Readmitted
+P1207,82,Female,Oncology,Cancer Care,12,314023,172,Yes,Readmitted
+P1208,70,Female,Orthopedic,Bone Care,7,448373,108,No,Not Readmitted
+P1209,71,Female,Neurology,Neuro Care,1,196521,143,Yes,Readmitted
+P1210,37,Male,Neurology,Neuro Care,10,207381,99,No,Not Readmitted
+P1211,38,Female,Orthopedic,Bone Care,14,406885,116,Yes,Readmitted
+P1212,72,Male,Orthopedic,Bone Care,8,347231,115,Yes,Readmitted
+P1213,89,Male,Orthopedic,Bone Care,14,279668,171,No,Not Readmitted
+P1214,30,Female,Cardiology,Heart Care,7,18449,101,No,Not Readmitted
+P1215,22,Female,Diabetes,Endocrinology,3,47562,154,Yes,Not Readmitted
+P1216,86,Male,Oncology,Cancer Care,6,472166,115,Yes,Readmitted
+P1217,57,Female,Oncology,Cancer Care,3,48482,130,No,Not Readmitted
+P1218,54,Male,Orthopedic,Bone Care,8,363725,143,No,Not Readmitted
+P1219,19,Male,Cardiology,Heart Care,1,282360,142,No,Not Readmitted
+P1220,23,Male,Neurology,Neuro Care,1,166446,112,Yes,Not Readmitted
+P1221,31,Female,Cardiology,Heart Care,12,235152,153,No,Not Readmitted
+P1222,23,Female,Orthopedic,Bone Care,14,433897,124,No,Not Readmitted
+P1223,25,Female,Neurology,Neuro Care,8,80285,179,No,Not Readmitted
+P1224,54,Male,Cardiology,Heart Care,11,374229,157,No,Readmitted
+P1225,86,Female,Neurology,Neuro Care,7,183745,148,Yes,Not Readmitted
+P1226,35,Female,Neurology,Neuro Care,6,416577,118,Yes,Not Readmitted
+P1227,69,Male,Oncology,Cancer Care,2,202109,110,Yes,Readmitted
+P1228,38,Female,Diabetes,Endocrinology,2,119996,165,Yes,Not Readmitted
+P1229,47,Male,Neurology,Neuro Care,7,377425,139,Yes,Readmitted
+P1230,26,Male,Cardiology,Heart Care,11,330705,93,Yes,Readmitted
+P1231,48,Male,Neurology,Neuro Care,12,444136,95,Yes,Not Readmitted
+P1232,70,Female,Oncology,Cancer Care,6,292307,102,Yes,Not Readmitted
+P1233,20,Female,Diabetes,Endocrinology,4,106883,124,No,Not Readmitted
+P1234,63,Male,Orthopedic,Bone Care,2,470014,95,No,Readmitted
+P1235,77,Male,Diabetes,Endocrinology,9,24241,169,Yes,Readmitted
+P1236,88,Female,Orthopedic,Bone Care,13,77129,139,No,Not Readmitted
+P1237,65,Female,Diabetes,Endocrinology,14,237279,127,Yes,Readmitted
+P1238,89,Female,Cardiology,Heart Care,10,440752,96,Yes,Readmitted
+P1239,25,Male,Diabetes,Endocrinology,11,198492,90,Yes,Readmitted
+P1240,43,Female,Oncology,Cancer Care,9,283164,167,Yes,Not Readmitted
+P1241,40,Male,Neurology,Neuro Care,15,430263,96,Yes,Not Readmitted
+P1242,31,Female,Orthopedic,Bone Care,2,254303,119,Yes,Not Readmitted
+P1243,65,Female,Neurology,Neuro Care,4,38588,130,No,Not Readmitted
+P1244,87,Male,Cardiology,Heart Care,11,102218,159,Yes,Not Readmitted
+P1245,29,Male,Cardiology,Heart Care,12,466156,121,No,Not Readmitted
+P1246,31,Male,Neurology,Neuro Care,12,403830,92,No,Not Readmitted
+P1247,57,Female,Neurology,Neuro Care,6,357651,150,Yes,Not Readmitted
+P1248,54,Female,Oncology,Cancer Care,15,326863,138,Yes,Readmitted
+P1249,50,Male,Oncology,Cancer Care,7,367084,128,No,Not Readmitted
+P1250,42,Male,Neurology,Neuro Care,8,83288,107,No,Not Readmitted
+P1251,21,Male,Oncology,Cancer Care,5,44802,170,Yes,Not Readmitted
+P1252,20,Male,Neurology,Neuro Care,13,321159,140,No,Not Readmitted
+P1253,83,Female,Neurology,Neuro Care,11,51826,120,No,Readmitted
+P1254,25,Male,Cardiology,Heart Care,7,237925,176,No,Readmitted
+P1255,47,Female,Cardiology,Heart Care,4,106444,171,No,Not Readmitted
+P1256,56,Female,Cardiology,Heart Care,4,425146,123,No,Not Readmitted
+P1257,80,Female,Orthopedic,Bone Care,10,337707,127,Yes,Not Readmitted
+P1258,76,Female,Neurology,Neuro Care,12,371513,132,Yes,Readmitted
+P1259,45,Female,Diabetes,Endocrinology,8,444959,142,No,Not Readmitted
+P1260,54,Male,Oncology,Cancer Care,3,314946,158,No,Not Readmitted
+P1261,65,Male,Neurology,Neuro Care,14,453253,155,No,Readmitted
+P1262,60,Male,Oncology,Cancer Care,11,276432,93,No,Not Readmitted
+P1263,81,Male,Cardiology,Heart Care,10,417940,150,Yes,Readmitted
+P1264,59,Male,Orthopedic,Bone Care,13,231364,130,Yes,Readmitted
+P1265,88,Male,Neurology,Neuro Care,11,269634,150,Yes,Not Readmitted
+P1266,38,Female,Orthopedic,Bone Care,10,194832,131,No,Not Readmitted
+P1267,60,Female,Cardiology,Heart Care,14,344787,163,Yes,Readmitted
+P1268,31,Female,Cardiology,Heart Care,11,291024,93,No,Not Readmitted
+P1269,30,Male,Oncology,Cancer Care,10,272363,177,Yes,Readmitted
+P1270,25,Female,Orthopedic,Bone Care,8,325563,116,Yes,Readmitted
+P1271,67,Female,Neurology,Neuro Care,12,277211,99,Yes,Readmitted
+P1272,22,Female,Orthopedic,Bone Care,9,451596,161,Yes,Readmitted
+P1273,60,Female,Cardiology,Heart Care,12,164501,126,Yes,Not Readmitted
+P1274,58,Male,Cardiology,Heart Care,3,485683,146,Yes,Not Readmitted
+P1275,39,Female,Neurology,Neuro Care,5,89344,170,Yes,Readmitted
+P1276,70,Female,Orthopedic,Bone Care,14,454340,148,No,Readmitted
+P1277,30,Male,Cardiology,Heart Care,14,142521,156,No,Not Readmitted
+P1278,87,Male,Neurology,Neuro Care,15,469334,105,No,Readmitted
+P1279,56,Female,Orthopedic,Bone Care,1,196385,113,Yes,Readmitted
+P1280,23,Female,Cardiology,Heart Care,13,499247,149,Yes,Readmitted
+P1281,24,Male,Diabetes,Endocrinology,9,349877,93,No,Not Readmitted
+P1282,84,Female,Neurology,Neuro Care,12,257125,139,No,Readmitted
+P1283,59,Female,Orthopedic,Bone Care,12,45423,122,No,Not Readmitted
+P1284,81,Male,Diabetes,Endocrinology,11,225259,173,Yes,Readmitted
+P1285,82,Male,Oncology,Cancer Care,8,22876,178,Yes,Readmitted
+P1286,58,Female,Cardiology,Heart Care,12,36959,122,Yes,Readmitted
+P1287,19,Male,Oncology,Cancer Care,7,11220,118,Yes,Not Readmitted
+P1288,28,Male,Orthopedic,Bone Care,13,355271,132,No,Not Readmitted
+P1289,62,Female,Oncology,Cancer Care,9,201122,166,Yes,Not Readmitted
+P1290,66,Male,Orthopedic,Bone Care,10,274375,156,No,Not Readmitted
+P1291,22,Female,Cardiology,Heart Care,1,365591,168,Yes,Readmitted
+P1292,68,Male,Orthopedic,Bone Care,11,118083,169,No,Not Readmitted
+P1293,30,Female,Diabetes,Endocrinology,1,97172,166,No,Not Readmitted
+P1294,64,Female,Neurology,Neuro Care,2,425833,99,No,Not Readmitted
+P1295,46,Female,Neurology,Neuro Care,2,308327,99,Yes,Not Readmitted
+P1296,25,Male,Cardiology,Heart Care,8,322723,137,No,Not Readmitted
+P1297,39,Male,Cardiology,Heart Care,5,15694,129,Yes,Not Readmitted
+P1298,24,Male,Neurology,Neuro Care,9,197999,177,Yes,Not Readmitted
+P1299,60,Female,Oncology,Cancer Care,4,499819,162,No,Not Readmitted
+P1300,73,Female,Neurology,Neuro Care,11,186454,138,No,Not Readmitted
+P1301,65,Female,Oncology,Cancer Care,2,176376,166,Yes,Not Readmitted
+P1302,32,Male,Cardiology,Heart Care,7,169837,134,Yes,Not Readmitted
+P1303,67,Female,Neurology,Neuro Care,15,90217,156,Yes,Readmitted
+P1304,24,Male,Cardiology,Heart Care,8,52725,158,Yes,Readmitted
+P1305,36,Male,Neurology,Neuro Care,5,196345,95,Yes,Not Readmitted
+P1306,35,Female,Cardiology,Heart Care,14,253777,136,Yes,Not Readmitted
+P1307,78,Male,Orthopedic,Bone Care,7,467892,109,No,Not Readmitted
+P1308,88,Male,Diabetes,Endocrinology,15,155544,111,Yes,Readmitted
+P1309,20,Male,Oncology,Cancer Care,13,357108,132,Yes,Readmitted
+P1310,21,Female,Neurology,Neuro Care,3,141995,162,No,Readmitted
+P1311,46,Male,Cardiology,Heart Care,1,26239,162,Yes,Not Readmitted
+P1312,87,Male,Oncology,Cancer Care,15,390146,180,Yes,Readmitted
+P1313,62,Male,Diabetes,Endocrinology,15,333281,105,Yes,Not Readmitted
+P1314,29,Female,Neurology,Neuro Care,13,16120,153,No,Readmitted
+P1315,22,Male,Cardiology,Heart Care,4,312483,165,No,Readmitted
+P1316,68,Female,Cardiology,Heart Care,11,290341,96,Yes,Readmitted
+P1317,65,Male,Diabetes,Endocrinology,13,287730,145,Yes,Not Readmitted
+P1318,59,Male,Neurology,Neuro Care,9,295155,113,Yes,Not Readmitted
+P1319,19,Female,Oncology,Cancer Care,8,110257,120,Yes,Not Readmitted
+P1320,57,Male,Cardiology,Heart Care,9,267883,123,Yes,Readmitted
+P1321,61,Female,Orthopedic,Bone Care,6,265490,139,No,Not Readmitted
+P1322,37,Female,Orthopedic,Bone Care,10,48184,160,No,Not Readmitted
+P1323,28,Female,Diabetes,Endocrinology,9,64105,106,No,Not Readmitted
+P1324,29,Female,Neurology,Neuro Care,12,127445,145,Yes,Readmitted
+P1325,65,Male,Oncology,Cancer Care,1,177808,180,Yes,Not Readmitted
+P1326,83,Female,Orthopedic,Bone Care,14,384464,170,No,Not Readmitted
+P1327,26,Female,Oncology,Cancer Care,10,434404,90,Yes,Not Readmitted
+P1328,52,Female,Cardiology,Heart Care,12,288119,114,No,Readmitted
+P1329,27,Female,Orthopedic,Bone Care,1,281255,177,No,Not Readmitted
+P1330,22,Female,Cardiology,Heart Care,10,107299,157,No,Not Readmitted
+P1331,50,Male,Oncology,Cancer Care,6,488420,145,Yes,Not Readmitted
+P1332,25,Male,Diabetes,Endocrinology,14,363068,165,Yes,Readmitted
+P1333,48,Male,Cardiology,Heart Care,2,228753,131,No,Not Readmitted
+P1334,32,Female,Neurology,Neuro Care,15,421053,118,Yes,Readmitted
+P1335,42,Male,Oncology,Cancer Care,3,123865,100,No,Not Readmitted
+P1336,24,Male,Oncology,Cancer Care,11,80015,168,Yes,Readmitted
+P1337,18,Female,Cardiology,Heart Care,11,148434,98,Yes,Readmitted
+P1338,42,Male,Oncology,Cancer Care,13,324174,93,Yes,Not Readmitted
+P1339,66,Male,Oncology,Cancer Care,6,137660,157,Yes,Not Readmitted
+P1340,84,Male,Oncology,Cancer Care,14,255056,126,No,Readmitted
+P1341,60,Female,Neurology,Neuro Care,6,152894,102,Yes,Readmitted
+P1342,88,Female,Oncology,Cancer Care,13,304092,157,Yes,Not Readmitted
+P1343,84,Female,Neurology,Neuro Care,13,242877,137,No,Not Readmitted
+P1344,22,Male,Oncology,Cancer Care,8,18228,139,Yes,Not Readmitted
+P1345,70,Male,Diabetes,Endocrinology,8,134149,105,Yes,Not Readmitted
+P1346,67,Female,Diabetes,Endocrinology,11,167474,150,No,Not Readmitted
+P1347,55,Female,Orthopedic,Bone Care,2,229435,119,No,Not Readmitted
+P1348,20,Male,Oncology,Cancer Care,2,194685,175,Yes,Not Readmitted
+P1349,61,Female,Orthopedic,Bone Care,11,150989,177,No,Readmitted
+P1350,62,Female,Diabetes,Endocrinology,15,288424,149,Yes,Readmitted
+P1351,76,Male,Neurology,Neuro Care,11,181963,155,No,Not Readmitted
+P1352,70,Female,Orthopedic,Bone Care,15,354970,90,Yes,Readmitted
+P1353,19,Male,Orthopedic,Bone Care,1,284038,119,Yes,Not Readmitted
+P1354,18,Male,Orthopedic,Bone Care,5,246461,116,No,Not Readmitted
+P1355,71,Female,Oncology,Cancer Care,12,135158,179,No,Readmitted
+P1356,31,Male,Orthopedic,Bone Care,6,410599,105,No,Not Readmitted
+P1357,36,Male,Orthopedic,Bone Care,7,348189,158,No,Not Readmitted
+P1358,25,Male,Cardiology,Heart Care,8,327962,122,No,Not Readmitted
+P1359,39,Female,Oncology,Cancer Care,5,428964,107,Yes,Readmitted
+P1360,61,Male,Orthopedic,Bone Care,8,31571,178,Yes,Readmitted
+P1361,32,Male,Cardiology,Heart Care,11,311935,165,No,Readmitted
+P1362,71,Male,Oncology,Cancer Care,15,415809,125,Yes,Readmitted
+P1363,40,Female,Diabetes,Endocrinology,15,152723,132,No,Readmitted
+P1364,18,Female,Oncology,Cancer Care,1,81860,128,No,Not Readmitted
+P1365,40,Female,Oncology,Cancer Care,14,480912,130,No,Not Readmitted
+P1366,38,Male,Diabetes,Endocrinology,8,444638,123,Yes,Not Readmitted
+P1367,32,Female,Cardiology,Heart Care,10,351995,123,Yes,Readmitted
+P1368,79,Female,Neurology,Neuro Care,6,259616,142,No,Readmitted
+P1369,18,Female,Oncology,Cancer Care,12,324224,101,No,Not Readmitted
+P1370,20,Female,Cardiology,Heart Care,1,110508,156,No,Not Readmitted
+P1371,41,Female,Cardiology,Heart Care,5,335641,125,Yes,Not Readmitted
+P1372,42,Female,Oncology,Cancer Care,8,411682,106,Yes,Not Readmitted
+P1373,76,Female,Neurology,Neuro Care,4,483325,172,Yes,Not Readmitted
+P1374,22,Female,Cardiology,Heart Care,12,19754,142,Yes,Readmitted
+P1375,60,Male,Cardiology,Heart Care,14,359755,104,No,Not Readmitted
+P1376,76,Male,Diabetes,Endocrinology,14,213780,136,Yes,Not Readmitted
+P1377,53,Male,Orthopedic,Bone Care,7,161802,165,No,Not Readmitted
+P1378,26,Female,Neurology,Neuro Care,11,229902,174,No,Not Readmitted
+P1379,74,Male,Neurology,Neuro Care,10,276238,161,No,Not Readmitted
+P1380,52,Female,Orthopedic,Bone Care,7,462688,147,No,Readmitted
+P1381,79,Female,Neurology,Neuro Care,2,336690,114,Yes,Not Readmitted
+P1382,26,Female,Cardiology,Heart Care,4,306217,129,Yes,Readmitted
+P1383,82,Female,Neurology,Neuro Care,9,478933,135,No,Readmitted
+P1384,73,Male,Oncology,Cancer Care,3,203727,127,Yes,Not Readmitted
+P1385,45,Female,Diabetes,Endocrinology,14,299013,127,Yes,Readmitted
+P1386,41,Male,Oncology,Cancer Care,3,461807,176,Yes,Readmitted
+P1387,23,Female,Cardiology,Heart Care,1,306969,125,Yes,Not Readmitted
+P1388,78,Female,Orthopedic,Bone Care,14,234894,150,No,Not Readmitted
+P1389,77,Female,Oncology,Cancer Care,11,385866,145,Yes,Readmitted
+P1390,25,Female,Oncology,Cancer Care,4,232789,153,No,Not Readmitted
+P1391,76,Male,Orthopedic,Bone Care,7,461114,167,Yes,Not Readmitted
+P1392,76,Male,Oncology,Cancer Care,9,375550,165,Yes,Readmitted
+P1393,87,Male,Cardiology,Heart Care,6,187040,114,No,Not Readmitted
+P1394,34,Female,Orthopedic,Bone Care,6,423619,124,Yes,Not Readmitted
+P1395,22,Male,Orthopedic,Bone Care,8,384122,112,No,Not Readmitted
+P1396,67,Female,Orthopedic,Bone Care,4,242478,115,No,Readmitted
+P1397,67,Male,Orthopedic,Bone Care,3,38689,167,Yes,Readmitted
+P1398,89,Female,Cardiology,Heart Care,4,213263,92,Yes,Readmitted
+P1399,68,Male,Orthopedic,Bone Care,15,294658,167,No,Not Readmitted
+P1400,48,Male,Neurology,Neuro Care,12,108276,90,Yes,Readmitted
+P1401,34,Male,Orthopedic,Bone Care,13,114109,173,No,Not Readmitted
+P1402,55,Female,Orthopedic,Bone Care,15,198533,102,No,Not Readmitted
+P1403,30,Female,Diabetes,Endocrinology,14,91424,130,Yes,Readmitted
+P1404,39,Female,Orthopedic,Bone Care,3,316999,126,Yes,Readmitted
+P1405,49,Female,Oncology,Cancer Care,8,284969,157,No,Not Readmitted
+P1406,89,Female,Cardiology,Heart Care,12,438250,155,No,Readmitted
+P1407,64,Male,Orthopedic,Bone Care,14,15783,162,No,Readmitted
+P1408,34,Female,Orthopedic,Bone Care,4,321297,129,No,Not Readmitted
+P1409,82,Male,Orthopedic,Bone Care,13,443837,162,Yes,Readmitted
+P1410,47,Female,Cardiology,Heart Care,9,263689,133,Yes,Not Readmitted
+P1411,52,Male,Diabetes,Endocrinology,10,78615,131,No,Not Readmitted
+P1412,43,Female,Neurology,Neuro Care,13,135643,95,Yes,Readmitted
+P1413,45,Male,Oncology,Cancer Care,7,119224,133,Yes,Not Readmitted
+P1414,86,Male,Diabetes,Endocrinology,1,176905,132,No,Not Readmitted
+P1415,63,Male,Neurology,Neuro Care,2,349618,149,Yes,Readmitted
+P1416,80,Male,Orthopedic,Bone Care,9,491842,98,Yes,Readmitted
+P1417,49,Female,Neurology,Neuro Care,2,187018,159,No,Not Readmitted
+P1418,42,Male,Cardiology,Heart Care,3,299172,137,Yes,Readmitted
+P1419,49,Male,Oncology,Cancer Care,11,122407,91,No,Not Readmitted
+P1420,46,Male,Diabetes,Endocrinology,15,157028,95,Yes,Not Readmitted
+P1421,45,Male,Orthopedic,Bone Care,7,261025,107,Yes,Not Readmitted
+P1422,45,Female,Cardiology,Heart Care,14,489354,174,No,Not Readmitted
+P1423,39,Female,Neurology,Neuro Care,11,71358,94,Yes,Readmitted
+P1424,29,Male,Cardiology,Heart Care,2,262945,106,Yes,Readmitted
+P1425,34,Male,Neurology,Neuro Care,15,214797,142,No,Not Readmitted
+P1426,69,Female,Neurology,Neuro Care,3,160074,106,No,Not Readmitted
+P1427,46,Male,Diabetes,Endocrinology,4,363818,96,Yes,Readmitted
+P1428,69,Male,Neurology,Neuro Care,2,31017,133,No,Not Readmitted
+P1429,33,Female,Cardiology,Heart Care,1,411723,105,No,Not Readmitted
+P1430,73,Female,Oncology,Cancer Care,5,455835,152,No,Readmitted
+P1431,46,Female,Diabetes,Endocrinology,10,184586,171,No,Not Readmitted
+P1432,64,Female,Neurology,Neuro Care,11,433271,153,No,Readmitted
+P1433,72,Female,Diabetes,Endocrinology,6,259902,99,No,Not Readmitted
+P1434,34,Female,Cardiology,Heart Care,11,230100,151,Yes,Not Readmitted
+P1435,56,Female,Oncology,Cancer Care,2,486369,143,Yes,Not Readmitted
+P1436,76,Female,Neurology,Neuro Care,13,497766,131,Yes,Readmitted
+P1437,20,Male,Cardiology,Heart Care,6,168235,148,No,Not Readmitted
+P1438,60,Male,Orthopedic,Bone Care,1,367337,151,No,Readmitted
+P1439,80,Male,Oncology,Cancer Care,12,499213,125,No,Readmitted
+P1440,90,Female,Neurology,Neuro Care,9,245156,140,No,Not Readmitted
+P1441,59,Male,Orthopedic,Bone Care,12,74813,107,Yes,Not Readmitted
+P1442,29,Female,Cardiology,Heart Care,4,229039,104,No,Not Readmitted
+P1443,77,Female,Orthopedic,Bone Care,5,124269,157,No,Readmitted
+P1444,42,Male,Diabetes,Endocrinology,10,162719,122,Yes,Not Readmitted
+P1445,18,Male,Cardiology,Heart Care,15,63464,160,Yes,Readmitted
+P1446,54,Female,Cardiology,Heart Care,2,441650,142,No,Readmitted
+P1447,37,Female,Cardiology,Heart Care,14,144007,100,Yes,Not Readmitted
+P1448,53,Female,Diabetes,Endocrinology,11,370473,139,No,Readmitted
+P1449,37,Female,Neurology,Neuro Care,8,274644,170,No,Not Readmitted
+P1450,61,Male,Neurology,Neuro Care,3,127024,92,Yes,Readmitted
+P1451,67,Female,Neurology,Neuro Care,10,330510,151,No,Readmitted
+P1452,51,Male,Cardiology,Heart Care,9,364663,167,Yes,Readmitted
+P1453,41,Male,Cardiology,Heart Care,8,357224,114,Yes,Not Readmitted
+P1454,66,Female,Cardiology,Heart Care,7,64123,99,Yes,Readmitted
+P1455,76,Male,Neurology,Neuro Care,7,72581,94,No,Not Readmitted
+P1456,48,Female,Diabetes,Endocrinology,3,397677,177,No,Not Readmitted
+P1457,56,Male,Orthopedic,Bone Care,1,465499,152,Yes,Not Readmitted
+P1458,25,Male,Orthopedic,Bone Care,9,364122,150,Yes,Not Readmitted
+P1459,77,Female,Neurology,Neuro Care,4,294344,163,No,Readmitted
+P1460,65,Female,Diabetes,Endocrinology,12,291216,167,Yes,Not Readmitted
+P1461,75,Female,Neurology,Neuro Care,2,328674,115,No,Readmitted
+P1462,28,Male,Oncology,Cancer Care,8,361756,162,Yes,Readmitted
+P1463,61,Female,Diabetes,Endocrinology,5,483601,150,No,Readmitted
+P1464,47,Male,Cardiology,Heart Care,7,358105,109,No,Readmitted
+P1465,55,Female,Diabetes,Endocrinology,9,222844,170,Yes,Readmitted
+P1466,55,Male,Orthopedic,Bone Care,3,187103,154,Yes,Readmitted
+P1467,64,Female,Neurology,Neuro Care,13,124468,165,No,Not Readmitted
+P1468,32,Male,Diabetes,Endocrinology,9,18116,132,No,Not Readmitted
+P1469,37,Female,Orthopedic,Bone Care,6,203435,154,No,Not Readmitted
+P1470,20,Male,Oncology,Cancer Care,11,170544,106,Yes,Readmitted
+P1471,35,Female,Oncology,Cancer Care,14,259428,139,Yes,Readmitted
+P1472,71,Female,Neurology,Neuro Care,1,300817,90,No,Readmitted
+P1473,30,Female,Orthopedic,Bone Care,15,106506,127,Yes,Not Readmitted
+P1474,29,Male,Oncology,Cancer Care,15,457282,107,Yes,Not Readmitted
+P1475,24,Male,Cardiology,Heart Care,12,484174,108,Yes,Not Readmitted
+P1476,33,Female,Neurology,Neuro Care,9,456055,113,Yes,Readmitted
+P1477,62,Male,Diabetes,Endocrinology,7,140391,135,Yes,Readmitted
+P1478,70,Male,Diabetes,Endocrinology,5,410243,110,Yes,Not Readmitted
+P1479,31,Female,Oncology,Cancer Care,2,105125,108,No,Not Readmitted
+P1480,78,Female,Diabetes,Endocrinology,11,269414,165,No,Not Readmitted
+P1481,31,Female,Orthopedic,Bone Care,10,449740,143,Yes,Not Readmitted
+P1482,70,Female,Cardiology,Heart Care,11,318182,151,No,Readmitted
+P1483,66,Female,Diabetes,Endocrinology,3,367190,134,No,Readmitted
+P1484,20,Female,Diabetes,Endocrinology,1,176709,143,Yes,Readmitted
+P1485,71,Male,Neurology,Neuro Care,14,460740,153,Yes,Readmitted
+P1486,29,Female,Neurology,Neuro Care,15,393756,100,No,Not Readmitted
+P1487,23,Female,Orthopedic,Bone Care,15,258649,96,No,Not Readmitted
+P1488,41,Female,Cardiology,Heart Care,8,124593,115,No,Not Readmitted
+P1489,34,Female,Neurology,Neuro Care,12,456038,173,No,Not Readmitted
+P1490,90,Male,Cardiology,Heart Care,12,437146,93,Yes,Readmitted
+P1491,44,Male,Neurology,Neuro Care,5,122986,95,No,Not Readmitted
+P1492,84,Female,Diabetes,Endocrinology,12,335027,142,Yes,Readmitted
+P1493,63,Female,Orthopedic,Bone Care,5,425669,140,Yes,Readmitted
+P1494,72,Male,Diabetes,Endocrinology,8,57059,171,No,Not Readmitted
+P1495,33,Male,Diabetes,Endocrinology,15,458948,156,Yes,Readmitted
+P1496,28,Male,Diabetes,Endocrinology,6,419708,157,Yes,Not Readmitted
+P1497,65,Male,Orthopedic,Bone Care,13,435367,155,Yes,Not Readmitted
+P1498,73,Male,Neurology,Neuro Care,14,397982,123,Yes,Not Readmitted
+P1499,54,Female,Diabetes,Endocrinology,6,469504,115,Yes,Readmitted
+P1500,29,Male,Orthopedic,Bone Care,8,382379,154,Yes,Readmitted
+P1501,50,Male,Neurology,Neuro Care,10,234596,115,No,Not Readmitted
+P1502,60,Female,Oncology,Cancer Care,11,487717,173,Yes,Not Readmitted
+P1503,81,Female,Cardiology,Heart Care,7,66239,106,Yes,Readmitted
+P1504,87,Female,Oncology,Cancer Care,11,459678,128,Yes,Readmitted
+P1505,42,Male,Diabetes,Endocrinology,1,51411,118,Yes,Not Readmitted
+P1506,68,Female,Oncology,Cancer Care,9,290404,128,Yes,Not Readmitted
+P1507,57,Male,Orthopedic,Bone Care,1,329277,141,Yes,Readmitted
+P1508,40,Female,Oncology,Cancer Care,6,406247,172,Yes,Readmitted
+P1509,40,Male,Cardiology,Heart Care,14,242234,120,No,Not Readmitted
+P1510,22,Female,Cardiology,Heart Care,1,237921,102,Yes,Not Readmitted
+P1511,66,Female,Oncology,Cancer Care,15,478944,90,No,Readmitted
+P1512,46,Male,Orthopedic,Bone Care,6,333977,109,Yes,Not Readmitted
+P1513,26,Female,Diabetes,Endocrinology,3,76828,139,No,Not Readmitted
+P1514,86,Male,Oncology,Cancer Care,3,447095,105,No,Not Readmitted
+P1515,30,Male,Oncology,Cancer Care,11,428689,178,Yes,Readmitted
+P1516,43,Male,Oncology,Cancer Care,6,452745,159,Yes,Not Readmitted
+P1517,53,Male,Neurology,Neuro Care,9,469129,165,Yes,Not Readmitted
+P1518,60,Male,Neurology,Neuro Care,3,178925,171,Yes,Readmitted
+P1519,39,Male,Neurology,Neuro Care,8,481054,126,No,Not Readmitted
+P1520,81,Female,Oncology,Cancer Care,15,381801,115,No,Readmitted
+P1521,22,Male,Oncology,Cancer Care,14,441559,142,No,Not Readmitted
+P1522,19,Male,Cardiology,Heart Care,7,412174,165,Yes,Not Readmitted
+P1523,39,Female,Oncology,Cancer Care,8,130613,140,Yes,Not Readmitted
+P1524,55,Female,Diabetes,Endocrinology,7,89782,97,No,Readmitted
+P1525,44,Female,Diabetes,Endocrinology,10,79118,156,No,Not Readmitted
+P1526,50,Male,Diabetes,Endocrinology,7,169370,167,Yes,Readmitted
+P1527,41,Male,Oncology,Cancer Care,14,87120,171,Yes,Readmitted
+P1528,65,Male,Oncology,Cancer Care,4,313388,168,No,Not Readmitted
+P1529,85,Male,Oncology,Cancer Care,3,420924,128,No,Not Readmitted
+P1530,42,Male,Diabetes,Endocrinology,1,286277,103,Yes,Not Readmitted
+P1531,69,Female,Diabetes,Endocrinology,14,446929,118,Yes,Readmitted
+P1532,76,Male,Oncology,Cancer Care,11,271348,170,Yes,Readmitted
+P1533,57,Female,Orthopedic,Bone Care,5,176854,91,No,Not Readmitted
+P1534,67,Male,Orthopedic,Bone Care,8,73373,167,Yes,Readmitted
+P1535,84,Female,Orthopedic,Bone Care,7,191054,130,Yes,Not Readmitted
+P1536,81,Female,Diabetes,Endocrinology,3,37797,180,Yes,Readmitted
+P1537,46,Male,Orthopedic,Bone Care,13,356142,117,Yes,Not Readmitted
+P1538,65,Female,Neurology,Neuro Care,6,100255,103,Yes,Readmitted
+P1539,60,Male,Orthopedic,Bone Care,10,28896,137,No,Not Readmitted
+P1540,21,Female,Oncology,Cancer Care,6,112179,94,Yes,Not Readmitted
+P1541,24,Female,Neurology,Neuro Care,10,272045,103,No,Not Readmitted
+P1542,56,Female,Oncology,Cancer Care,11,319439,176,No,Readmitted
+P1543,72,Female,Oncology,Cancer Care,5,474881,113,No,Not Readmitted
+P1544,65,Male,Oncology,Cancer Care,4,345335,156,No,Not Readmitted
+P1545,23,Male,Orthopedic,Bone Care,13,93081,150,Yes,Readmitted
+P1546,30,Male,Neurology,Neuro Care,7,447265,128,No,Not Readmitted
+P1547,88,Female,Orthopedic,Bone Care,4,33037,169,Yes,Readmitted
+P1548,77,Male,Orthopedic,Bone Care,11,237963,178,No,Readmitted
+P1549,48,Female,Neurology,Neuro Care,6,323207,165,Yes,Not Readmitted
+P1550,81,Female,Neurology,Neuro Care,13,149963,171,Yes,Readmitted
+P1551,90,Female,Cardiology,Heart Care,10,426061,121,Yes,Readmitted
+P1552,38,Male,Neurology,Neuro Care,12,458280,135,No,Not Readmitted
+P1553,60,Female,Cardiology,Heart Care,5,145030,171,No,Not Readmitted
+P1554,34,Female,Orthopedic,Bone Care,6,446537,122,No,Not Readmitted
+P1555,71,Male,Diabetes,Endocrinology,3,424680,159,Yes,Readmitted
+P1556,66,Male,Cardiology,Heart Care,1,113275,157,No,Readmitted
+P1557,66,Male,Orthopedic,Bone Care,14,336656,166,No,Not Readmitted
+P1558,81,Male,Orthopedic,Bone Care,9,111297,174,Yes,Not Readmitted
+P1559,29,Male,Cardiology,Heart Care,7,148633,152,Yes,Readmitted
+P1560,39,Male,Diabetes,Endocrinology,11,144529,126,No,Not Readmitted
+P1561,34,Female,Cardiology,Heart Care,5,239993,109,No,Not Readmitted
+P1562,52,Male,Diabetes,Endocrinology,1,312955,107,Yes,Readmitted
+P1563,32,Female,Orthopedic,Bone Care,15,415871,173,Yes,Readmitted
+P1564,88,Female,Neurology,Neuro Care,2,478211,149,Yes,Not Readmitted
+P1565,76,Female,Cardiology,Heart Care,4,441223,161,No,Not Readmitted
+P1566,70,Female,Orthopedic,Bone Care,13,397599,140,Yes,Not Readmitted
+P1567,20,Female,Oncology,Cancer Care,12,339293,130,No,Not Readmitted
+P1568,50,Female,Cardiology,Heart Care,6,203940,136,No,Not Readmitted
+P1569,78,Male,Cardiology,Heart Care,8,93738,168,Yes,Readmitted
+P1570,67,Female,Orthopedic,Bone Care,2,142979,116,Yes,Not Readmitted
+P1571,37,Female,Neurology,Neuro Care,1,345028,178,Yes,Not Readmitted
+P1572,33,Male,Oncology,Cancer Care,2,321077,111,Yes,Readmitted
+P1573,80,Female,Neurology,Neuro Care,4,478600,119,Yes,Readmitted
+P1574,67,Male,Neurology,Neuro Care,8,331426,101,No,Not Readmitted
+P1575,72,Male,Neurology,Neuro Care,11,233198,151,Yes,Readmitted
+P1576,81,Male,Orthopedic,Bone Care,15,182293,170,Yes,Readmitted
+P1577,57,Female,Neurology,Neuro Care,10,476424,147,No,Not Readmitted
+P1578,18,Female,Oncology,Cancer Care,4,116248,152,Yes,Not Readmitted
+P1579,80,Male,Diabetes,Endocrinology,2,29811,144,Yes,Readmitted
+P1580,30,Female,Orthopedic,Bone Care,11,413146,157,Yes,Readmitted
+P1581,72,Female,Cardiology,Heart Care,1,445713,118,Yes,Readmitted
+P1582,59,Male,Cardiology,Heart Care,15,229624,144,No,Not Readmitted
+P1583,74,Male,Diabetes,Endocrinology,6,16171,140,Yes,Readmitted
+P1584,26,Male,Diabetes,Endocrinology,13,200837,178,Yes,Not Readmitted
+P1585,70,Female,Cardiology,Heart Care,13,193509,98,No,Not Readmitted
+P1586,42,Female,Diabetes,Endocrinology,14,106097,167,No,Not Readmitted
+P1587,86,Female,Neurology,Neuro Care,9,348677,101,Yes,Readmitted
+P1588,46,Female,Oncology,Cancer Care,10,367633,140,Yes,Not Readmitted
+P1589,28,Female,Orthopedic,Bone Care,10,221730,101,Yes,Not Readmitted
+P1590,76,Male,Cardiology,Heart Care,2,123030,138,Yes,Readmitted
+P1591,77,Male,Oncology,Cancer Care,3,216821,164,Yes,Readmitted
+P1592,80,Male,Oncology,Cancer Care,10,308197,139,No,Readmitted
+P1593,56,Female,Cardiology,Heart Care,2,37639,145,No,Not Readmitted
+P1594,86,Male,Oncology,Cancer Care,13,306450,161,No,Readmitted
+P1595,56,Male,Oncology,Cancer Care,4,71462,154,No,Not Readmitted
+P1596,85,Male,Cardiology,Heart Care,10,57189,148,No,Not Readmitted
+P1597,67,Female,Cardiology,Heart Care,8,279185,117,No,Readmitted
+P1598,73,Female,Diabetes,Endocrinology,12,200407,165,No,Readmitted
+P1599,39,Male,Orthopedic,Bone Care,11,406462,107,No,Not Readmitted
+P1600,86,Male,Oncology,Cancer Care,7,374961,100,No,Not Readmitted
+P1601,70,Female,Neurology,Neuro Care,6,212694,161,Yes,Readmitted
+P1602,19,Male,Diabetes,Endocrinology,7,338886,111,Yes,Readmitted
+P1603,43,Male,Orthopedic,Bone Care,15,427597,123,No,Not Readmitted
+P1604,21,Male,Orthopedic,Bone Care,13,24363,141,Yes,Readmitted
+P1605,21,Female,Diabetes,Endocrinology,9,272598,105,Yes,Readmitted
+P1606,39,Female,Cardiology,Heart Care,10,75293,95,No,Not Readmitted
+P1607,66,Male,Orthopedic,Bone Care,11,132960,172,Yes,Readmitted
+P1608,19,Male,Orthopedic,Bone Care,8,415864,144,No,Not Readmitted
+P1609,79,Male,Orthopedic,Bone Care,9,470595,149,Yes,Readmitted
+P1610,61,Male,Diabetes,Endocrinology,13,270806,98,Yes,Readmitted
+P1611,29,Female,Neurology,Neuro Care,11,366350,113,No,Not Readmitted
+P1612,32,Male,Cardiology,Heart Care,10,123316,165,No,Not Readmitted
+P1613,68,Female,Orthopedic,Bone Care,10,237386,93,No,Not Readmitted
+P1614,64,Female,Oncology,Cancer Care,3,346009,91,No,Readmitted
+P1615,50,Male,Oncology,Cancer Care,10,360287,139,Yes,Not Readmitted
+P1616,60,Male,Neurology,Neuro Care,13,255623,149,Yes,Not Readmitted
+P1617,83,Female,Oncology,Cancer Care,14,131775,118,No,Not Readmitted
+P1618,57,Male,Orthopedic,Bone Care,7,378110,93,No,Not Readmitted
+P1619,41,Female,Neurology,Neuro Care,13,352351,152,No,Readmitted
+P1620,82,Female,Neurology,Neuro Care,1,107345,162,Yes,Not Readmitted
+P1621,43,Male,Oncology,Cancer Care,2,35722,156,Yes,Not Readmitted
+P1622,26,Male,Diabetes,Endocrinology,2,64369,166,Yes,Readmitted
+P1623,49,Male,Cardiology,Heart Care,6,430628,109,Yes,Not Readmitted
+P1624,67,Male,Neurology,Neuro Care,14,161978,173,No,Not Readmitted
+P1625,33,Female,Neurology,Neuro Care,14,97421,143,Yes,Readmitted
+P1626,27,Female,Orthopedic,Bone Care,3,335585,128,Yes,Not Readmitted
+P1627,73,Female,Neurology,Neuro Care,11,224972,167,Yes,Not Readmitted
+P1628,62,Male,Cardiology,Heart Care,4,200656,109,Yes,Readmitted
+P1629,20,Female,Oncology,Cancer Care,6,358091,118,Yes,Readmitted
+P1630,21,Male,Orthopedic,Bone Care,12,252735,170,Yes,Readmitted
+P1631,31,Male,Neurology,Neuro Care,7,422140,137,Yes,Readmitted
+P1632,67,Male,Neurology,Neuro Care,13,424440,91,No,Readmitted
+P1633,30,Female,Orthopedic,Bone Care,11,177684,93,Yes,Not Readmitted
+P1634,54,Female,Oncology,Cancer Care,10,338924,163,Yes,Not Readmitted
+P1635,87,Female,Diabetes,Endocrinology,13,126158,137,No,Readmitted
+P1636,62,Male,Cardiology,Heart Care,4,275579,98,Yes,Readmitted
+P1637,52,Male,Neurology,Neuro Care,9,45777,173,No,Not Readmitted
+P1638,22,Female,Neurology,Neuro Care,4,84367,136,No,Not Readmitted
+P1639,83,Female,Diabetes,Endocrinology,5,11320,93,No,Not Readmitted
+P1640,26,Female,Neurology,Neuro Care,4,159155,146,No,Not Readmitted
+P1641,73,Female,Oncology,Cancer Care,6,469637,140,Yes,Readmitted
+P1642,84,Female,Oncology,Cancer Care,1,101349,95,Yes,Not Readmitted
+P1643,77,Female,Oncology,Cancer Care,8,403227,141,No,Readmitted
+P1644,43,Female,Cardiology,Heart Care,13,122964,117,Yes,Readmitted
+P1645,43,Male,Cardiology,Heart Care,3,246319,126,Yes,Readmitted
+P1646,57,Male,Oncology,Cancer Care,6,467456,123,No,Not Readmitted
+P1647,34,Female,Oncology,Cancer Care,8,122789,114,No,Not Readmitted
+P1648,88,Male,Oncology,Cancer Care,6,315092,155,Yes,Not Readmitted
+P1649,31,Female,Neurology,Neuro Care,13,445042,104,Yes,Readmitted
+P1650,41,Male,Cardiology,Heart Care,12,285660,129,No,Not Readmitted
+P1651,81,Male,Neurology,Neuro Care,10,315330,138,No,Not Readmitted
+P1652,27,Female,Oncology,Cancer Care,4,462677,111,No,Not Readmitted
+P1653,23,Female,Diabetes,Endocrinology,8,429152,138,No,Not Readmitted
+P1654,52,Male,Orthopedic,Bone Care,15,393779,134,Yes,Readmitted
+P1655,42,Female,Oncology,Cancer Care,1,423645,151,Yes,Not Readmitted
+P1656,68,Female,Neurology,Neuro Care,4,295720,179,Yes,Readmitted
+P1657,34,Male,Diabetes,Endocrinology,2,432825,124,Yes,Readmitted
+P1658,56,Male,Cardiology,Heart Care,6,134495,176,Yes,Readmitted
+P1659,59,Male,Oncology,Cancer Care,11,343600,157,Yes,Readmitted
+P1660,61,Female,Diabetes,Endocrinology,5,467793,156,No,Not Readmitted
+P1661,38,Female,Cardiology,Heart Care,3,234938,154,Yes,Not Readmitted
+P1662,73,Female,Neurology,Neuro Care,9,143698,99,Yes,Readmitted
+P1663,28,Male,Neurology,Neuro Care,3,450056,120,Yes,Not Readmitted
+P1664,69,Male,Diabetes,Endocrinology,5,70200,161,Yes,Readmitted
+P1665,22,Female,Oncology,Cancer Care,2,170737,170,No,Not Readmitted
+P1666,40,Female,Oncology,Cancer Care,9,94557,168,No,Readmitted
+P1667,82,Female,Neurology,Neuro Care,11,442760,92,No,Not Readmitted
+P1668,48,Female,Orthopedic,Bone Care,4,175173,155,Yes,Readmitted
+P1669,19,Female,Neurology,Neuro Care,2,130385,164,No,Not Readmitted
+P1670,25,Female,Diabetes,Endocrinology,8,485007,91,Yes,Not Readmitted
+P1671,60,Male,Neurology,Neuro Care,15,340962,166,Yes,Not Readmitted
+P1672,61,Female,Diabetes,Endocrinology,3,284853,177,No,Readmitted
+P1673,73,Female,Oncology,Cancer Care,10,494750,146,Yes,Readmitted
+P1674,67,Male,Orthopedic,Bone Care,11,35580,99,Yes,Readmitted
+P1675,46,Male,Oncology,Cancer Care,9,103482,142,Yes,Not Readmitted
+P1676,57,Male,Oncology,Cancer Care,4,343163,130,Yes,Not Readmitted
+P1677,33,Male,Neurology,Neuro Care,8,334182,112,No,Not Readmitted
+P1678,18,Female,Neurology,Neuro Care,15,90951,132,No,Not Readmitted
+P1679,70,Female,Cardiology,Heart Care,6,38893,116,Yes,Not Readmitted
+P1680,32,Male,Cardiology,Heart Care,5,342670,171,No,Not Readmitted
+P1681,47,Male,Orthopedic,Bone Care,5,133574,164,No,Not Readmitted
+P1682,84,Female,Oncology,Cancer Care,7,39288,126,Yes,Readmitted
+P1683,38,Female,Oncology,Cancer Care,15,354313,154,Yes,Readmitted
+P1684,26,Male,Diabetes,Endocrinology,5,269269,148,Yes,Readmitted
+P1685,55,Female,Orthopedic,Bone Care,5,31818,127,No,Not Readmitted
+P1686,81,Female,Cardiology,Heart Care,10,453562,151,No,Not Readmitted
+P1687,58,Female,Oncology,Cancer Care,15,241999,93,No,Not Readmitted
+P1688,42,Female,Neurology,Neuro Care,13,439789,104,No,Not Readmitted
+P1689,71,Male,Cardiology,Heart Care,2,467188,169,Yes,Readmitted
+P1690,84,Male,Diabetes,Endocrinology,10,118363,110,Yes,Readmitted
+P1691,62,Male,Neurology,Neuro Care,10,312987,142,No,Not Readmitted
+P1692,75,Female,Neurology,Neuro Care,12,237517,146,Yes,Readmitted
+P1693,45,Female,Orthopedic,Bone Care,9,341828,173,No,Not Readmitted
+P1694,63,Male,Neurology,Neuro Care,7,243901,114,Yes,Not Readmitted
+P1695,53,Male,Diabetes,Endocrinology,13,393747,145,No,Readmitted
+P1696,89,Male,Cardiology,Heart Care,8,221695,105,Yes,Readmitted
+P1697,87,Male,Cardiology,Heart Care,7,273703,156,No,Readmitted
+P1698,34,Male,Diabetes,Endocrinology,5,50718,113,No,Readmitted
+P1699,74,Female,Cardiology,Heart Care,9,431133,99,No,Readmitted
+P1700,42,Male,Orthopedic,Bone Care,11,70748,96,Yes,Not Readmitted
+P1701,71,Female,Neurology,Neuro Care,4,379286,137,Yes,Readmitted
+P1702,77,Male,Neurology,Neuro Care,11,100224,90,No,Not Readmitted
+P1703,38,Male,Diabetes,Endocrinology,7,236289,155,No,Not Readmitted
+P1704,26,Female,Diabetes,Endocrinology,6,19661,94,Yes,Readmitted
+P1705,25,Male,Neurology,Neuro Care,12,393099,121,Yes,Not Readmitted
+P1706,51,Male,Oncology,Cancer Care,3,177768,117,Yes,Not Readmitted
+P1707,48,Female,Cardiology,Heart Care,1,325568,100,Yes,Not Readmitted
+P1708,82,Male,Orthopedic,Bone Care,14,244201,147,No,Readmitted
+P1709,72,Female,Diabetes,Endocrinology,6,105347,104,Yes,Not Readmitted
+P1710,37,Female,Diabetes,Endocrinology,5,494394,157,Yes,Not Readmitted
+P1711,32,Female,Orthopedic,Bone Care,2,351660,101,Yes,Readmitted
+P1712,62,Male,Oncology,Cancer Care,9,459370,134,No,Not Readmitted
+P1713,85,Male,Diabetes,Endocrinology,11,355994,172,No,Readmitted
+P1714,60,Male,Diabetes,Endocrinology,4,124772,114,Yes,Readmitted
+P1715,53,Female,Oncology,Cancer Care,10,403902,97,No,Not Readmitted
+P1716,28,Female,Oncology,Cancer Care,15,299347,128,Yes,Not Readmitted
+P1717,25,Female,Orthopedic,Bone Care,13,370755,110,Yes,Readmitted
+P1718,82,Female,Neurology,Neuro Care,1,375564,131,Yes,Readmitted
+P1719,81,Male,Cardiology,Heart Care,10,446090,145,Yes,Readmitted
+P1720,49,Female,Cardiology,Heart Care,2,401861,114,No,Not Readmitted
+P1721,86,Female,Cardiology,Heart Care,11,461514,154,Yes,Readmitted
+P1722,39,Male,Neurology,Neuro Care,5,378005,132,No,Not Readmitted
+P1723,89,Female,Neurology,Neuro Care,13,168805,158,Yes,Readmitted
+P1724,32,Male,Diabetes,Endocrinology,5,449125,146,No,Not Readmitted
+P1725,55,Male,Oncology,Cancer Care,2,328790,93,No,Not Readmitted
+P1726,65,Female,Neurology,Neuro Care,12,464105,107,Yes,Not Readmitted
+P1727,51,Female,Cardiology,Heart Care,4,146991,128,No,Not Readmitted
+P1728,30,Male,Neurology,Neuro Care,1,325389,169,No,Readmitted
+P1729,69,Male,Cardiology,Heart Care,6,80924,158,Yes,Readmitted
+P1730,21,Male,Cardiology,Heart Care,9,404904,101,No,Not Readmitted
+P1731,32,Female,Diabetes,Endocrinology,12,122631,114,Yes,Not Readmitted
+P1732,69,Male,Oncology,Cancer Care,11,117202,120,No,Not Readmitted
+P1733,56,Female,Cardiology,Heart Care,10,378647,97,Yes,Not Readmitted
+P1734,26,Male,Oncology,Cancer Care,12,315491,134,No,Not Readmitted
+P1735,23,Female,Oncology,Cancer Care,10,393604,106,No,Not Readmitted
+P1736,89,Male,Cardiology,Heart Care,10,146484,112,No,Readmitted
+P1737,49,Male,Orthopedic,Bone Care,6,191649,95,No,Not Readmitted
+P1738,83,Female,Diabetes,Endocrinology,5,157875,167,Yes,Readmitted
+P1739,66,Female,Diabetes,Endocrinology,5,496709,93,Yes,Readmitted
+P1740,42,Male,Cardiology,Heart Care,1,385375,105,No,Not Readmitted
+P1741,61,Female,Oncology,Cancer Care,7,17425,93,No,Not Readmitted
+P1742,75,Male,Oncology,Cancer Care,3,290318,152,No,Not Readmitted
+P1743,75,Female,Oncology,Cancer Care,9,152274,135,Yes,Readmitted
+P1744,68,Female,Oncology,Cancer Care,12,474962,100,Yes,Readmitted
+P1745,59,Female,Orthopedic,Bone Care,7,127931,143,Yes,Not Readmitted
+P1746,41,Female,Neurology,Neuro Care,7,172402,117,No,Not Readmitted
+P1747,62,Male,Cardiology,Heart Care,2,156106,178,Yes,Readmitted
+P1748,73,Female,Cardiology,Heart Care,5,202432,93,Yes,Readmitted
+P1749,20,Male,Diabetes,Endocrinology,9,472437,173,No,Readmitted
+P1750,41,Male,Cardiology,Heart Care,4,43794,174,No,Readmitted
+P1751,72,Male,Neurology,Neuro Care,4,462031,104,No,Not Readmitted
+P1752,24,Male,Neurology,Neuro Care,13,468392,165,No,Not Readmitted
+P1753,57,Male,Cardiology,Heart Care,3,329309,128,Yes,Readmitted
+P1754,85,Male,Diabetes,Endocrinology,13,151862,161,Yes,Readmitted
+P1755,50,Male,Cardiology,Heart Care,1,67985,171,Yes,Not Readmitted
+P1756,73,Male,Oncology,Cancer Care,8,88359,177,No,Readmitted
+P1757,63,Female,Diabetes,Endocrinology,8,22375,132,Yes,Readmitted
+P1758,33,Male,Oncology,Cancer Care,1,256337,150,No,Readmitted
+P1759,64,Female,Oncology,Cancer Care,10,49284,124,Yes,Readmitted
+P1760,70,Female,Cardiology,Heart Care,6,366886,160,No,Not Readmitted
+P1761,52,Female,Neurology,Neuro Care,14,461846,169,Yes,Readmitted
+P1762,87,Male,Oncology,Cancer Care,5,376304,127,No,Readmitted
+P1763,62,Female,Diabetes,Endocrinology,13,244849,139,No,Not Readmitted
+P1764,89,Female,Oncology,Cancer Care,2,294930,99,Yes,Readmitted
+P1765,20,Male,Cardiology,Heart Care,6,103391,140,No,Not Readmitted
+P1766,38,Male,Neurology,Neuro Care,8,274389,156,Yes,Readmitted
+P1767,38,Female,Oncology,Cancer Care,3,151803,90,Yes,Not Readmitted
+P1768,24,Male,Diabetes,Endocrinology,2,335946,168,Yes,Not Readmitted
+P1769,89,Male,Oncology,Cancer Care,15,168031,124,Yes,Not Readmitted
+P1770,27,Male,Oncology,Cancer Care,3,192561,120,No,Not Readmitted
+P1771,72,Male,Neurology,Neuro Care,5,180003,90,No,Not Readmitted
+P1772,52,Male,Cardiology,Heart Care,11,457350,134,No,Not Readmitted
+P1773,40,Male,Neurology,Neuro Care,10,151263,175,No,Not Readmitted
+P1774,53,Male,Oncology,Cancer Care,3,358165,130,No,Not Readmitted
+P1775,64,Female,Neurology,Neuro Care,6,444075,126,No,Readmitted
+P1776,58,Female,Cardiology,Heart Care,12,28782,118,No,Readmitted
+P1777,45,Female,Diabetes,Endocrinology,6,186103,162,No,Not Readmitted
+P1778,85,Male,Cardiology,Heart Care,2,61338,112,No,Not Readmitted
+P1779,89,Female,Cardiology,Heart Care,9,355240,166,No,Not Readmitted
+P1780,72,Male,Diabetes,Endocrinology,1,142393,142,No,Readmitted
+P1781,81,Male,Orthopedic,Bone Care,3,472765,172,No,Readmitted
+P1782,86,Male,Cardiology,Heart Care,4,65893,128,Yes,Readmitted
+P1783,36,Male,Cardiology,Heart Care,2,68606,123,No,Readmitted
+P1784,67,Female,Neurology,Neuro Care,13,67819,126,Yes,Readmitted
+P1785,37,Male,Oncology,Cancer Care,6,152091,99,Yes,Not Readmitted
+P1786,52,Female,Orthopedic,Bone Care,8,356231,151,No,Readmitted
+P1787,72,Female,Oncology,Cancer Care,6,271577,115,No,Not Readmitted
+P1788,37,Male,Neurology,Neuro Care,15,340787,180,Yes,Readmitted
+P1789,26,Female,Neurology,Neuro Care,10,168783,139,Yes,Not Readmitted
+P1790,89,Male,Orthopedic,Bone Care,8,65084,119,No,Readmitted
+P1791,46,Female,Cardiology,Heart Care,2,277711,105,No,Not Readmitted
+P1792,84,Female,Oncology,Cancer Care,6,350132,175,No,Readmitted
+P1793,43,Male,Diabetes,Endocrinology,14,252127,179,No,Not Readmitted
+P1794,76,Female,Cardiology,Heart Care,5,36238,152,No,Readmitted
+P1795,84,Female,Cardiology,Heart Care,14,110116,165,Yes,Readmitted
+P1796,89,Male,Oncology,Cancer Care,10,224709,95,No,Not Readmitted
+P1797,36,Male,Oncology,Cancer Care,14,379210,111,No,Not Readmitted
+P1798,77,Male,Orthopedic,Bone Care,9,169324,166,No,Readmitted
+P1799,75,Female,Oncology,Cancer Care,11,298428,175,Yes,Readmitted
+P1800,50,Female,Orthopedic,Bone Care,7,256041,130,No,Not Readmitted
+P1801,37,Female,Oncology,Cancer Care,8,443455,104,Yes,Not Readmitted
+P1802,37,Male,Diabetes,Endocrinology,4,153173,177,Yes,Readmitted
+P1803,53,Male,Diabetes,Endocrinology,5,89340,137,No,Not Readmitted
+P1804,69,Male,Cardiology,Heart Care,15,354923,127,No,Readmitted
+P1805,86,Male,Neurology,Neuro Care,4,165689,157,No,Readmitted
+P1806,26,Female,Neurology,Neuro Care,1,149446,135,Yes,Not Readmitted
+P1807,89,Male,Oncology,Cancer Care,4,298504,160,Yes,Readmitted
+P1808,30,Female,Neurology,Neuro Care,4,276401,144,Yes,Readmitted
+P1809,83,Female,Diabetes,Endocrinology,11,83915,124,Yes,Readmitted
+P1810,52,Male,Neurology,Neuro Care,11,303290,180,Yes,Readmitted
+P1811,78,Female,Orthopedic,Bone Care,5,173876,174,No,Readmitted
+P1812,64,Male,Neurology,Neuro Care,6,341167,150,No,Not Readmitted
+P1813,34,Male,Oncology,Cancer Care,13,112648,174,No,Not Readmitted
+P1814,64,Female,Oncology,Cancer Care,12,85026,107,Yes,Not Readmitted
+P1815,54,Male,Oncology,Cancer Care,10,272522,153,No,Readmitted
+P1816,76,Male,Diabetes,Endocrinology,7,198288,124,No,Not Readmitted
+P1817,44,Male,Orthopedic,Bone Care,1,174250,157,Yes,Readmitted
+P1818,72,Male,Oncology,Cancer Care,4,465038,172,No,Not Readmitted
+P1819,58,Female,Orthopedic,Bone Care,10,403276,126,Yes,Not Readmitted
+P1820,46,Male,Orthopedic,Bone Care,6,390950,171,No,Not Readmitted
+P1821,72,Male,Cardiology,Heart Care,8,37766,111,Yes,Readmitted
+P1822,28,Female,Cardiology,Heart Care,15,82103,101,Yes,Readmitted
+P1823,40,Female,Neurology,Neuro Care,11,164465,170,Yes,Readmitted
+P1824,69,Male,Diabetes,Endocrinology,12,58626,146,Yes,Readmitted
+P1825,59,Male,Orthopedic,Bone Care,2,25069,113,Yes,Not Readmitted
+P1826,89,Female,Orthopedic,Bone Care,2,277191,157,No,Not Readmitted
+P1827,30,Female,Oncology,Cancer Care,3,132430,172,No,Not Readmitted
+P1828,70,Male,Orthopedic,Bone Care,15,428290,165,Yes,Not Readmitted
+P1829,31,Female,Orthopedic,Bone Care,11,288019,144,Yes,Readmitted
+P1830,25,Female,Oncology,Cancer Care,10,455509,179,No,Not Readmitted
+P1831,44,Male,Orthopedic,Bone Care,6,123725,179,Yes,Readmitted
+P1832,76,Female,Diabetes,Endocrinology,4,20105,145,No,Readmitted
+P1833,50,Female,Neurology,Neuro Care,4,466563,118,Yes,Not Readmitted
+P1834,30,Male,Cardiology,Heart Care,6,333634,170,Yes,Readmitted
+P1835,79,Female,Oncology,Cancer Care,14,134924,148,Yes,Not Readmitted
+P1836,80,Female,Neurology,Neuro Care,14,451760,90,Yes,Readmitted
+P1837,66,Male,Oncology,Cancer Care,14,206490,131,No,Not Readmitted
+P1838,22,Female,Orthopedic,Bone Care,8,439324,129,No,Not Readmitted
+P1839,75,Male,Cardiology,Heart Care,3,61223,130,Yes,Readmitted
+P1840,31,Male,Oncology,Cancer Care,5,358641,153,Yes,Not Readmitted
+P1841,36,Male,Orthopedic,Bone Care,7,480885,140,Yes,Not Readmitted
+P1842,81,Male,Cardiology,Heart Care,9,483081,177,Yes,Readmitted
+P1843,24,Female,Diabetes,Endocrinology,3,380477,117,Yes,Not Readmitted
+P1844,61,Male,Neurology,Neuro Care,10,184969,176,Yes,Not Readmitted
+P1845,80,Female,Cardiology,Heart Care,4,433568,159,No,Readmitted
+P1846,49,Female,Oncology,Cancer Care,13,431250,102,Yes,Readmitted
+P1847,66,Female,Oncology,Cancer Care,3,491912,180,Yes,Readmitted
+P1848,30,Female,Neurology,Neuro Care,15,372175,108,No,Not Readmitted
+P1849,61,Male,Orthopedic,Bone Care,11,102080,114,No,Readmitted
+P1850,59,Female,Neurology,Neuro Care,14,337903,129,Yes,Not Readmitted
+P1851,19,Male,Oncology,Cancer Care,7,194708,99,No,Not Readmitted
+P1852,78,Female,Diabetes,Endocrinology,5,55508,173,Yes,Readmitted
+P1853,85,Male,Orthopedic,Bone Care,9,148210,180,No,Not Readmitted
+P1854,89,Male,Neurology,Neuro Care,4,125217,95,Yes,Readmitted
+P1855,71,Female,Neurology,Neuro Care,7,359399,140,Yes,Readmitted
+P1856,37,Male,Orthopedic,Bone Care,11,223938,149,Yes,Readmitted
+P1857,32,Male,Neurology,Neuro Care,1,10874,130,No,Not Readmitted
+P1858,51,Female,Orthopedic,Bone Care,7,363761,114,Yes,Not Readmitted
+P1859,52,Male,Cardiology,Heart Care,9,273064,135,Yes,Readmitted
+P1860,73,Male,Neurology,Neuro Care,12,389307,132,Yes,Readmitted
+P1861,30,Male,Cardiology,Heart Care,15,177402,114,No,Not Readmitted
+P1862,85,Male,Cardiology,Heart Care,6,280569,133,No,Readmitted
+P1863,33,Female,Cardiology,Heart Care,7,88059,135,No,Not Readmitted
+P1864,33,Male,Neurology,Neuro Care,1,493099,142,No,Not Readmitted
+P1865,25,Male,Oncology,Cancer Care,10,202876,104,No,Not Readmitted
+P1866,67,Male,Cardiology,Heart Care,12,106736,170,No,Readmitted
+P1867,66,Female,Cardiology,Heart Care,6,118083,138,Yes,Readmitted
+P1868,82,Male,Oncology,Cancer Care,11,235254,148,Yes,Readmitted
+P1869,70,Male,Oncology,Cancer Care,13,42746,161,No,Readmitted
+P1870,62,Female,Cardiology,Heart Care,1,199467,99,No,Not Readmitted
+P1871,47,Male,Diabetes,Endocrinology,3,375107,112,Yes,Readmitted
+P1872,45,Male,Oncology,Cancer Care,7,391645,144,Yes,Readmitted
+P1873,45,Female,Neurology,Neuro Care,13,102010,143,No,Readmitted
+P1874,52,Male,Oncology,Cancer Care,4,206722,148,Yes,Readmitted
+P1875,34,Female,Oncology,Cancer Care,12,205381,176,Yes,Readmitted
+P1876,80,Male,Cardiology,Heart Care,5,177075,137,Yes,Readmitted
+P1877,41,Male,Neurology,Neuro Care,2,254528,155,No,Not Readmitted
+P1878,75,Male,Cardiology,Heart Care,9,323391,119,No,Readmitted
+P1879,37,Female,Diabetes,Endocrinology,5,467460,106,Yes,Not Readmitted
+P1880,18,Female,Neurology,Neuro Care,7,406313,105,Yes,Not Readmitted
+P1881,28,Male,Oncology,Cancer Care,6,248382,120,Yes,Not Readmitted
+P1882,31,Female,Oncology,Cancer Care,3,455890,127,Yes,Not Readmitted
+P1883,27,Male,Neurology,Neuro Care,3,456547,139,No,Not Readmitted
+P1884,46,Female,Orthopedic,Bone Care,14,469024,169,Yes,Readmitted
+P1885,48,Male,Oncology,Cancer Care,3,250928,163,No,Not Readmitted
+P1886,41,Male,Diabetes,Endocrinology,2,460904,140,No,Not Readmitted
+P1887,32,Female,Oncology,Cancer Care,2,18496,102,Yes,Readmitted
+P1888,54,Female,Oncology,Cancer Care,3,14834,163,No,Not Readmitted
+P1889,78,Female,Diabetes,Endocrinology,9,410987,123,No,Readmitted
+P1890,65,Male,Cardiology,Heart Care,9,314288,129,No,Not Readmitted
+P1891,52,Female,Neurology,Neuro Care,13,445837,163,Yes,Readmitted
+P1892,73,Male,Orthopedic,Bone Care,7,422015,153,No,Readmitted
+P1893,33,Female,Oncology,Cancer Care,11,269696,149,Yes,Not Readmitted
+P1894,57,Male,Cardiology,Heart Care,8,383482,99,No,Not Readmitted
+P1895,32,Female,Oncology,Cancer Care,4,119363,122,No,Not Readmitted
+P1896,57,Female,Cardiology,Heart Care,1,488926,161,No,Not Readmitted
+P1897,80,Female,Diabetes,Endocrinology,15,122039,120,Yes,Readmitted
+P1898,46,Male,Neurology,Neuro Care,4,66208,170,Yes,Readmitted
+P1899,87,Male,Oncology,Cancer Care,1,342741,159,Yes,Readmitted
+P1900,90,Female,Cardiology,Heart Care,2,428052,155,No,Not Readmitted
+P1901,89,Male,Diabetes,Endocrinology,4,61657,130,Yes,Not Readmitted
+P1902,23,Female,Oncology,Cancer Care,4,356513,123,Yes,Readmitted
+P1903,54,Male,Oncology,Cancer Care,2,313924,142,Yes,Readmitted
+P1904,64,Male,Oncology,Cancer Care,9,310501,111,No,Readmitted
+P1905,74,Male,Neurology,Neuro Care,6,39905,138,No,Readmitted
+P1906,67,Female,Neurology,Neuro Care,7,109575,107,Yes,Readmitted
+P1907,21,Male,Cardiology,Heart Care,13,147187,98,No,Not Readmitted
+P1908,41,Male,Cardiology,Heart Care,10,435448,175,No,Not Readmitted
+P1909,68,Female,Diabetes,Endocrinology,1,251916,95,No,Readmitted
+P1910,75,Male,Cardiology,Heart Care,7,98206,92,No,Readmitted
+P1911,75,Female,Neurology,Neuro Care,6,43739,113,No,Not Readmitted
+P1912,18,Male,Neurology,Neuro Care,7,386436,104,Yes,Not Readmitted
+P1913,32,Male,Diabetes,Endocrinology,2,417623,155,No,Not Readmitted
+P1914,24,Male,Oncology,Cancer Care,1,180189,174,No,Not Readmitted
+P1915,46,Female,Diabetes,Endocrinology,10,189676,174,No,Not Readmitted
+P1916,48,Female,Oncology,Cancer Care,8,257429,145,No,Not Readmitted
+P1917,55,Female,Orthopedic,Bone Care,8,245286,140,No,Not Readmitted
+P1918,45,Female,Diabetes,Endocrinology,2,467479,129,No,Not Readmitted
+P1919,35,Male,Neurology,Neuro Care,6,340679,145,No,Not Readmitted
+P1920,45,Male,Neurology,Neuro Care,9,327023,103,No,Not Readmitted
+P1921,48,Female,Neurology,Neuro Care,10,358608,143,Yes,Not Readmitted
+P1922,72,Female,Neurology,Neuro Care,3,123817,147,No,Readmitted
+P1923,18,Female,Diabetes,Endocrinology,1,327071,109,No,Not Readmitted
+P1924,23,Female,Cardiology,Heart Care,4,278646,93,Yes,Readmitted
+P1925,51,Male,Neurology,Neuro Care,15,386291,117,Yes,Not Readmitted
+P1926,84,Female,Orthopedic,Bone Care,5,235987,148,No,Readmitted
+P1927,83,Male,Diabetes,Endocrinology,6,214457,115,No,Readmitted
+P1928,49,Male,Neurology,Neuro Care,3,193168,129,Yes,Not Readmitted
+P1929,63,Female,Cardiology,Heart Care,9,492332,151,Yes,Readmitted
+P1930,77,Female,Orthopedic,Bone Care,5,140733,119,Yes,Readmitted
+P1931,46,Female,Neurology,Neuro Care,2,18197,179,Yes,Readmitted
+P1932,57,Male,Orthopedic,Bone Care,2,157601,125,Yes,Readmitted
+P1933,42,Male,Neurology,Neuro Care,6,73745,94,No,Not Readmitted
+P1934,46,Male,Orthopedic,Bone Care,10,367455,112,No,Not Readmitted
+P1935,45,Male,Diabetes,Endocrinology,8,204296,94,No,Not Readmitted
+P1936,69,Male,Neurology,Neuro Care,2,493615,162,Yes,Readmitted
+P1937,39,Male,Orthopedic,Bone Care,10,316818,145,No,Not Readmitted
+P1938,28,Female,Orthopedic,Bone Care,15,365289,105,No,Not Readmitted
+P1939,30,Female,Neurology,Neuro Care,12,292692,156,No,Not Readmitted
+P1940,48,Male,Cardiology,Heart Care,7,482796,164,No,Not Readmitted
+P1941,55,Female,Orthopedic,Bone Care,6,89729,159,No,Readmitted
+P1942,37,Female,Neurology,Neuro Care,10,75637,147,Yes,Not Readmitted
+P1943,20,Female,Neurology,Neuro Care,8,285269,135,No,Not Readmitted
+P1944,34,Male,Diabetes,Endocrinology,13,385851,133,No,Not Readmitted
+P1945,33,Male,Diabetes,Endocrinology,13,120381,91,No,Not Readmitted
+P1946,43,Female,Oncology,Cancer Care,5,334625,149,Yes,Not Readmitted
+P1947,26,Male,Orthopedic,Bone Care,9,273498,151,Yes,Not Readmitted
+P1948,75,Male,Orthopedic,Bone Care,9,400001,169,No,Not Readmitted
+P1949,62,Male,Neurology,Neuro Care,7,38631,161,Yes,Not Readmitted
+P1950,45,Female,Diabetes,Endocrinology,11,241751,96,Yes,Readmitted
+P1951,32,Male,Orthopedic,Bone Care,13,280638,157,Yes,Not Readmitted
+P1952,56,Female,Diabetes,Endocrinology,7,336561,104,Yes,Not Readmitted
+P1953,69,Female,Diabetes,Endocrinology,7,63141,167,No,Readmitted
+P1954,77,Male,Diabetes,Endocrinology,5,71962,133,Yes,Readmitted
+P1955,60,Female,Orthopedic,Bone Care,13,257597,123,Yes,Readmitted
+P1956,29,Female,Orthopedic,Bone Care,13,407832,132,Yes,Not Readmitted
+P1957,75,Male,Orthopedic,Bone Care,12,386198,151,Yes,Not Readmitted
+P1958,68,Female,Orthopedic,Bone Care,2,381565,178,Yes,Readmitted
+P1959,72,Male,Diabetes,Endocrinology,11,167790,146,No,Not Readmitted
+P1960,59,Male,Oncology,Cancer Care,2,446929,147,No,Readmitted
+P1961,54,Male,Neurology,Neuro Care,9,111531,93,Yes,Not Readmitted
+P1962,20,Female,Cardiology,Heart Care,13,223832,134,No,Not Readmitted
+P1963,64,Male,Neurology,Neuro Care,4,320288,119,Yes,Not Readmitted
+P1964,39,Female,Neurology,Neuro Care,7,381929,93,Yes,Not Readmitted
+P1965,55,Male,Cardiology,Heart Care,6,497496,102,Yes,Not Readmitted
+P1966,67,Female,Cardiology,Heart Care,10,101175,95,Yes,Not Readmitted
+P1967,70,Female,Orthopedic,Bone Care,6,453992,146,Yes,Readmitted
+P1968,39,Female,Cardiology,Heart Care,7,345767,149,Yes,Readmitted
+P1969,27,Female,Neurology,Neuro Care,14,299518,158,Yes,Readmitted
+P1970,18,Female,Oncology,Cancer Care,13,203950,92,No,Readmitted
+P1971,38,Female,Cardiology,Heart Care,5,380088,167,Yes,Readmitted
+P1972,87,Male,Orthopedic,Bone Care,2,444300,102,No,Not Readmitted
+P1973,41,Male,Diabetes,Endocrinology,10,32554,143,Yes,Readmitted
+P1974,85,Male,Orthopedic,Bone Care,10,294318,116,Yes,Readmitted
+P1975,34,Male,Diabetes,Endocrinology,12,184211,148,No,Readmitted
+P1976,19,Male,Orthopedic,Bone Care,11,143218,152,Yes,Readmitted
+P1977,50,Female,Neurology,Neuro Care,14,113935,133,No,Not Readmitted
+P1978,61,Male,Orthopedic,Bone Care,8,449433,147,No,Not Readmitted
+P1979,51,Male,Neurology,Neuro Care,2,402155,146,Yes,Not Readmitted
+P1980,49,Male,Oncology,Cancer Care,8,202428,104,No,Not Readmitted
+P1981,63,Female,Orthopedic,Bone Care,9,375492,173,No,Readmitted
+P1982,28,Female,Neurology,Neuro Care,5,10083,166,Yes,Not Readmitted
+P1983,76,Male,Diabetes,Endocrinology,11,257173,177,No,Not Readmitted
+P1984,51,Female,Neurology,Neuro Care,7,74815,91,No,Not Readmitted
+P1985,62,Male,Oncology,Cancer Care,3,19348,116,No,Readmitted
+P1986,22,Female,Neurology,Neuro Care,5,48023,106,Yes,Readmitted
+P1987,78,Male,Orthopedic,Bone Care,7,346975,110,Yes,Not Readmitted
+P1988,90,Female,Orthopedic,Bone Care,6,260725,142,No,Not Readmitted
+P1989,63,Male,Neurology,Neuro Care,6,170240,161,Yes,Not Readmitted
+P1990,53,Male,Oncology,Cancer Care,13,488209,153,Yes,Not Readmitted
+P1991,28,Female,Neurology,Neuro Care,1,420148,151,No,Not Readmitted
+P1992,75,Male,Orthopedic,Bone Care,4,148480,143,No,Readmitted
+P1993,69,Female,Orthopedic,Bone Care,13,160356,161,Yes,Readmitted
+P1994,87,Female,Neurology,Neuro Care,3,303229,97,Yes,Not Readmitted
+P1995,76,Female,Neurology,Neuro Care,11,222346,105,Yes,Readmitted
+P1996,20,Female,Cardiology,Heart Care,13,212142,101,No,Not Readmitted
+P1997,72,Male,Oncology,Cancer Care,14,387203,137,Yes,Readmitted
+P1998,23,Male,Oncology,Cancer Care,5,340787,162,No,Not Readmitted
+P1999,58,Male,Orthopedic,Bone Care,6,47263,133,No,Not Readmitted
+P2000,59,Female,Cardiology,Heart Care,1,249372,174,No,Not Readmitted

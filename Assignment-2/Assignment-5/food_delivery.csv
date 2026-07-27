@@ -1,0 +1,36 @@
+order_id,restaurant_name,restaurant_area,cuisine_type,order_date,order_time,day_of_week,customer_id,customer_area,distance_km,items_ordered,order_value,discount_applied,final_amount,payment_mode,delivery_partner_id,pickup_time_mins,delivery_time_mins,total_time_mins,weather,traffic_level,vehicle_type,customer_rating,food_rating,delivery_rating,order_again
+FD001,Biryani Blues,Banjara Hills,Indian,2024-01-05,12:30,Friday,CU101,Jubilee Hills,3.2,3,580,50,530,UPI,DP01,12,28,40,Clear,Low,Bike,5,5,5,Yes
+FD002,Pizza Hut,Madhapur,Italian,2024-01-05,13:15,Friday,CU102,Kondapur,2.8,2,650,0,650,Credit Card,DP02,8,32,40,Clear,Medium,Bike,4,4,3,Yes
+FD003,McDonald's,Hitech City,Fast Food,2024-01-06,19:45,Saturday,CU103,Gachibowli,1.5,4,420,30,390,COD,DP03,10,18,28,Clear,High,Bike,3,4,4,Yes
+FD004,Pind Balluchi,Jubilee Hills,North Indian,2024-01-06,20:30,Saturday,CU104,Banjara Hills,4.5,5,1200,100,1100,UPI,DP04,15,45,60,Rainy,High,Bike,2,4,2,No
+FD005,Chipotle,Kondapur,Mexican,2024-01-07,14:00,Sunday,CU105,Madhapur,2.2,2,480,0,480,Debit Card,DP05,8,22,30,Clear,Low,Bike,5,4,5,Yes
+FD006,Saravana Bhavan,Ameerpet,South Indian,2024-01-07,08:30,Sunday,CU106,SR Nagar,3.8,4,320,20,300,UPI,DP06,10,35,45,Clear,Medium,Bike,4,5,4,Yes
+FD007,Domino's,Kukatpally,Italian,2024-01-08,21:00,Monday,CU107,KPHB,1.8,3,520,40,480,Credit Card,DP07,7,20,27,Clear,Low,Bike,4,3,5,Yes
+FD008,KFC,Secunderabad,Fast Food,2024-01-08,13:45,Monday,CU108,Trimulgherry,2.5,3,380,0,380,UPI,DP08,10,25,35,Cloudy,Medium,Bike,3,4,3,Yes
+FD009,Paradise Biryani,Secunderabad,Indian,2024-01-09,12:00,Tuesday,CU109,Begumpet,3.0,4,780,60,720,COD,DP09,18,30,48,Clear,Low,Bike,5,5,5,Yes
+FD010,Behrouz Biryani,Banjara Hills,Indian,2024-01-09,19:30,Tuesday,CU110,Jubilee Hills,2.2,2,950,0,950,Credit Card,DP10,12,22,34,Clear,Medium,Bike,4,5,4,Yes
+FD011,Subway,Madhapur,Fast Food,2024-01-10,15:30,Wednesday,CU111,Hitech City,1.2,2,320,0,320,UPI,DP01,5,15,20,Clear,Low,Bike,5,4,5,Yes
+FD012,Barbeque Nation,Hitech City,Multi-Cuisine,2024-01-10,20:00,Wednesday,CU112,Kondapur,3.5,6,1800,150,1650,Debit Card,DP02,20,40,60,Rainy,High,Bike,2,5,2,No
+FD013,Faasos,Gachibowli,Fast Food,2024-01-11,13:00,Thursday,CU113,Manikonda,2.8,3,450,25,425,UPI,DP03,8,28,36,Cloudy,Medium,Bike,3,3,4,Yes
+FD014,Oven Story,Kondapur,Italian,2024-01-11,19:45,Thursday,CU114,Madhapur,1.5,2,580,0,580,Credit Card,DP04,10,18,28,Clear,Low,Bike,5,4,5,Yes
+FD015,Chettinad Kitchen,Ameerpet,South Indian,2024-01-12,12:30,Friday,CU115,Somajiguda,4.2,5,680,50,630,COD,DP05,15,42,57,Clear,High,Bike,3,5,2,Yes
+FD016,Wow Momo,Kukatpally,Fast Food,2024-01-12,16:00,Friday,CU116,KPHB,1.0,4,280,0,280,UPI,DP06,6,12,18,Clear,Low,Bike,5,4,5,Yes
+FD017,Hyderabad House,Banjara Hills,Indian,2024-01-13,13:30,Saturday,CU117,Jubilee Hills,2.8,3,820,70,750,Credit Card,DP07,15,28,43,Cloudy,Medium,Bike,4,5,4,Yes
+FD018,Pizza Hut,Madhapur,Italian,2024-01-13,20:15,Saturday,CU118,Kondapur,3.0,4,760,0,760,UPI,DP08,8,32,40,Rainy,High,Bike,2,3,2,No
+FD019,Zomato Kitchen,Gachibowli,Multi-Cuisine,2024-01-14,14:00,Sunday,CU119,Manikonda,2.0,3,520,30,490,Debit Card,DP09,10,20,30,Clear,Low,Bike,5,4,5,Yes
+FD020,Biryani Blues,Banjara Hills,Indian,2024-01-14,19:00,Sunday,CU120,Jubilee Hills,3.5,4,720,60,660,UPI,DP10,12,35,47,Clear,Medium,Bike,4,5,4,Yes
+FD021,Burger King,Hitech City,Fast Food,2024-01-15,12:45,Monday,CU101,Kondapur,4.0,3,380,20,360,Credit Card,DP01,8,38,46,Clear,High,Bike,3,4,3,Yes
+FD022,Saravana Bhavan,Ameerpet,South Indian,2024-01-15,08:00,Monday,CU121,SR Nagar,3.5,3,280,0,280,COD,DP02,10,35,45,Clear,Medium,Bike,4,5,4,Yes
+FD023,Behrouz Biryani,Jubilee Hills,Indian,2024-01-16,13:15,Tuesday,CU122,Banjara Hills,2.5,2,880,0,880,UPI,DP03,12,25,37,Cloudy,Low,Bike,5,5,5,Yes
+FD024,Domino's,Kukatpally,Italian,2024-01-16,20:30,Tuesday,CU123,KPHB,1.5,3,480,40,440,Debit Card,DP04,7,18,25,Clear,Low,Bike,4,3,5,Yes
+FD025,Pind Balluchi,Secunderabad,North Indian,2024-01-17,19:45,Wednesday,CU124,Begumpet,3.2,4,950,80,870,Credit Card,DP05,15,32,47,Rainy,High,Bike,,4,1,No
+FD026,Paradise Biryani,Secunderabad,Indian,2024-01-17,12:30,Wednesday,CU125,Trimulgherry,2.8,5,920,70,850,UPI,DP06,18,28,46,Clear,Medium,Bike,5,5,5,Yes
+FD027,Chipotle,Madhapur,Mexican,2024-01-18,15:45,Thursday,CU126,Hitech City,2.0,2,460,0,460,Credit Card,DP07,8,20,28,Clear,Low,Bike,4,4,4,Yes
+FD028,KFC,Gachibowli,Fast Food,2024-01-18,20:00,Thursday,CU127,Manikonda,3.8,4,420,30,390,UPI,DP08,10,38,48,Cloudy,Medium,Bike,3,4,3,Yes
+FD029,Barbeque Nation,Banjara Hills,Multi-Cuisine,2024-01-19,21:00,Friday,CU128,Jubilee Hills,2.5,8,2200,200,2000,Credit Card,DP09,20,25,45,Clear,Low,Bike,5,5,5,Yes
+FD030,McDonald's,Hitech City,Fast Food,2024-01-19,14:30,Friday,CU129,Kondapur,1.8,3,380,0,380,COD,DP10,10,18,28,Clear,Medium,Bike,4,4,4,Yes
+FD031,Chettinad Kitchen,Ameerpet,South Indian,2024-01-20,13:00,Saturday,CU130,Somajiguda,4.0,4,620,50,570,UPI,DP01,15,40,55,Rainy,High,Bike,2,5,2,No
+FD032,Hyderabad House,Banjara Hills,Indian,2024-01-20,19:30,Saturday,CU131,Jubilee Hills,3.0,3,780,60,720,Debit Card,DP02,15,30,45,Clear,Medium,Bike,4,5,4,Yes
+FD033,Wow Momo,Kukatpally,Fast Food,2024-01-21,16:15,Sunday,CU132,KPHB,1.2,5,340,0,340,UPI,DP03,6,12,18,Clear,Low,Bike,5,4,5,Yes
+FD034,Faasos,Kondapur,Fast Food,2024-01-21,19:00,Sunday,CU133,Madhapur,2.0,3,420,25,395,Credit Card,DP04,8,20,28,Cloudy,Medium,Bike,3,3,4,Yes
+FD035,Oven Story,Hitech City,Italian,2024-01-22,20:30,Monday,CU134,Gachibowli,2.8,2,620,0,620,UPI,DP05,10,28,38,Clear,Low,Bike,,4,5,Yes

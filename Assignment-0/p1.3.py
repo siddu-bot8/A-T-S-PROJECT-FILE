@@ -1,0 +1,5 @@
+print("****Remainder AND Quotient****")
+num1 = int(input("enter a number: "))
+num2 = int(input("enter b number: "))
+print("Remainder: " ,num1%num2)
+print("Quotient: ",num1/num2)

@@ -1,0 +1,36 @@
+order_id,customer_id,customer_name,customer_city,customer_state,order_date,product_id,product_name,category,sub_category,quantity,unit_price,discount_percent,shipping_mode,shipping_days,returned,payment_method,customer_age,customer_gender,rating
+ORD001,C101,Aarav Shah,Mumbai,Maharashtra,2024-01-03,PRD201,Samsung Galaxy S23,Electronics,Mobiles,1,72000,10,Express,2,No,Credit Card,28,Male,5
+ORD002,C102,Priya Mehta,Delhi,Delhi,2024-01-04,PRD202,Nike Running Shoes,Footwear,Sports Shoes,2,8500,5,Standard,5,No,UPI,34,Female,4
+ORD003,C103,Rohan Gupta,Bangalore,Karnataka,2024-01-05,PRD203,Sony Headphones,Electronics,Audio,1,15000,0,Standard,4,Yes,Debit Card,22,Male,3
+ORD004,C104,Sneha Patel,Ahmedabad,Gujarat,2024-01-06,PRD204,Lakme Foundation,Beauty,Makeup,3,1200,15,Economy,7,No,COD,29,Female,5
+ORD005,C105,Vikram Singh,Chennai,Tamil Nadu,2024-01-07,PRD201,Samsung Galaxy S23,Electronics,Mobiles,1,72000,10,Express,2,No,Credit Card,45,Male,4
+ORD006,C106,Anjali Rao,Hyderabad,Telangana,2024-01-08,PRD205,Prestige Cooker,Home,Kitchen,2,3500,0,Standard,5,No,UPI,38,Female,4
+ORD007,C107,Kiran Nair,Pune,Maharashtra,2024-01-09,PRD206,Woodland Boots,Footwear,Casual Shoes,1,6500,20,Standard,5,Yes,Credit Card,31,Male,2
+ORD008,C108,Meera Reddy,Kolkata,West Bengal,2024-01-10,PRD207,Philips Air Fryer,Home,Appliances,1,8000,0,Express,3,No,Debit Card,52,Female,5
+ORD009,C109,Arjun Das,Jaipur,Rajasthan,2024-01-11,PRD208,Boat Earbuds,Electronics,Audio,2,2500,5,Economy,8,No,UPI,26,Male,4
+ORD010,C110,Divya Kumar,Lucknow,Uttar Pradesh,2024-01-12,PRD209,Mamaearth Face Wash,Beauty,Skincare,4,450,,Standard,6,No,COD,23,Female,3
+ORD011,C111,Rahul Sharma,Mumbai,Maharashtra,2024-01-13,PRD210,Apple Watch SE,Electronics,Wearables,1,29000,0,Express,2,No,Credit Card,33,Male,5
+ORD012,C112,Pooja Joshi,Delhi,Delhi,2024-01-14,PRD211,Adidas Track Pants,Clothing,Sportswear,2,3200,10,Standard,4,No,UPI,27,Female,4
+ORD013,C113,Sanjay Pillai,Bangalore,Karnataka,2024-01-15,PRD212,Instant Pot,Home,Kitchen,1,12000,5,Standard,5,No,Credit Card,41,Male,5
+ORD014,C114,Lakshmi Menon,Chennai,Tamil Nadu,2024-01-16,PRD203,Sony Headphones,Electronics,Audio,1,15000,0,Express,2,Yes,Debit Card,36,Female,2
+ORD015,C115,Aditya Varma,Hyderabad,Telangana,2024-01-17,PRD213,Campus Shoes,Footwear,Sports Shoes,3,2200,15,Economy,9,No,COD,19,Male,3
+ORD016,C116,Kavitha Iyer,Pune,Maharashtra,2024-01-18,PRD214,Nykaa Lipstick,Beauty,Makeup,5,800,0,Standard,6,No,UPI,25,Female,5
+ORD017,C117,Rajesh Choudhary,Kolkata,West Bengal,2024-01-19,PRD201,Samsung Galaxy S23,Electronics,Mobiles,1,72000,10,Express,2,No,Credit Card,48,Male,4
+ORD018,C118,Sunita Agarwal,Jaipur,Rajasthan,2024-01-20,PRD215,Milton Water Bottle,Home,Accessories,6,600,0,Economy,10,No,COD,44,Female,3
+ORD019,C119,Nikhil Bose,Mumbai,Maharashtra,2024-01-21,PRD216,JBL Speaker,Electronics,Audio,1,5500,10,Standard,4,No,Debit Card,30,Male,4
+ORD020,C120,Deepa Krishnan,Delhi,Delhi,2024-01-22,PRD217,Malabar Gold Earrings,Jewelry,Gold,1,45000,0,Express,1,No,Credit Card,55,Female,5
+ORD021,C101,Aarav Shah,Mumbai,Maharashtra,2024-01-25,PRD208,Boat Earbuds,Electronics,Audio,1,2500,5,Standard,4,No,Credit Card,28,Male,5
+ORD022,C121,Gaurav Tiwari,Bangalore,Karnataka,2024-01-26,PRD218,Xiaomi TV 43,Electronics,TV,1,32000,8,Express,3,Yes,Debit Card,37,Male,2
+ORD023,C122,Nandita Roy,Chennai,Tamil Nadu,2024-01-27,PRD219,Himalaya Face Pack,Beauty,Skincare,3,220,,Economy,8,No,COD,24,Female,4
+ORD024,C123,Suresh Pillai,Hyderabad,Telangana,2024-01-28,PRD205,Prestige Cooker,Home,Kitchen,1,3500,0,Standard,5,No,UPI,62,Male,5
+ORD025,C124,Rekha Sharma,Pune,Maharashtra,2024-01-29,PRD220,H&M Dress,Clothing,Western,2,2800,20,Standard,5,No,Credit Card,28,Female,3
+ORD026,C125,Manish Khanna,Kolkata,West Bengal,2024-01-30,PRD211,Adidas Track Pants,Clothing,Sportswear,1,3200,10,Economy,9,No,COD,35,Male,4
+ORD027,C126,Tara Balan,Jaipur,Rajasthan,2024-02-01,PRD216,JBL Speaker,Electronics,Audio,1,5500,10,Standard,5,No,UPI,32,Female,4
+ORD028,C127,Vivek Sinha,Mumbai,Maharashtra,2024-02-02,PRD213,Campus Shoes,Footwear,Sports Shoes,2,2200,15,Economy,8,No,COD,21,Male,3
+ORD029,C128,Anita Desai,Delhi,Delhi,2024-02-03,PRD217,Malabar Gold Earrings,Jewelry,Gold,1,45000,0,Express,1,No,Credit Card,47,Female,5
+ORD030,C129,Kartik Malhotra,Bangalore,Karnataka,2024-02-04,PRD210,Apple Watch SE,Electronics,Wearables,1,29000,0,Express,2,No,Credit Card,39,Male,5
+ORD031,C130,Uma Reddy,Chennai,Tamil Nadu,2024-02-05,PRD204,Lakme Foundation,Beauty,Makeup,2,1200,15,Standard,6,No,UPI,31,Female,4
+ORD032,C131,Siddharth Roy,Hyderabad,Telangana,2024-02-06,PRD218,Xiaomi TV 43,Electronics,TV,1,32000,8,Standard,4,No,Debit Card,43,Male,3
+ORD033,C132,Pallavi Menon,Pune,Maharashtra,2024-02-07,PRD209,Mamaearth Face Wash,Beauty,Skincare,3,450,,Economy,9,No,COD,26,Female,4
+ORD034,C133,Dinesh Kumar,Kolkata,West Bengal,2024-02-08,PRD212,Instant Pot,Home,Kitchen,1,12000,5,Standard,5,No,Credit Card,50,Male,5
+ORD035,C134,Bharati Singh,Jaipur,Rajasthan,2024-02-09,PRD220,H&M Dress,Clothing,Western,3,2800,20,Standard,6,Yes,Debit Card,29,Female,2

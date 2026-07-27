@@ -1,0 +1,31 @@
+player_id,player_name,team,role,nationality,age,matches_played,innings_batted,runs_scored,highest_score,batting_avg,strike_rate,centuries,half_centuries,fours,sixes,innings_bowled,wickets,bowling_avg,economy_rate,best_bowling,catches,stumpings,salary_cr,mvp_awards
+PL001,Rohit Sharma,Mumbai Indians,Batsman,Indian,36,230,225,5880,109,30.5,128.4,2,42,620,285,0,0,,,,45,0,18.5,3
+PL002,Virat Kohli,Royal Challengers Bangalore,Batsman,Indian,35,237,230,7263,113,37.1,130.2,7,50,680,210,0,0,,,,98,0,21.0,5
+PL003,MS Dhoni,Chennai Super Kings,Wicket-Keeper,Indian,42,250,185,4978,84,38.9,135.1,0,24,290,220,0,0,,,,165,42,20.0,4
+PL004,Jasprit Bumrah,Mumbai Indians,Bowler,Indian,30,120,15,85,22,8.5,110.4,0,0,8,5,118,145,22.8,6.8,5/10,35,0,17.5,2
+PL005,KL Rahul,Lucknow Super Giants,Batsman,Indian,31,132,128,4200,132,38.5,134.6,1,35,380,190,0,0,,,,52,18,19.5,1
+PL006,Hardik Pandya,Mumbai Indians,All-Rounder,Indian,30,115,105,2650,91,28.2,148.5,0,15,210,185,108,75,28.4,8.2,4/33,62,0,15.0,2
+PL007,Rashid Khan,Gujarat Titans,Bowler,Afghan,25,92,12,45,15,5.0,95.2,0,0,4,2,90,112,19.6,6.2,4/20,38,0,14.5,3
+PL008,David Warner,Delhi Capitals,Batsman,Australian,37,162,160,5881,126,41.2,140.8,4,52,640,310,0,0,,,,82,0,16.0,2
+PL009,AB de Villiers,Royal Challengers Bangalore,Batsman,South African,39,184,170,4849,133,40.2,151.7,3,40,390,280,0,0,,,,72,0,15.5,3
+PL010,Suresh Raina,Chennai Super Kings,All-Rounder,Indian,37,205,200,5528,100,32.5,136.7,1,38,500,220,42,35,32.5,8.5,2/15,95,0,12.0,2
+PL011,Yuzvendra Chahal,Rajasthan Royals,Bowler,Indian,33,130,8,22,10,3.1,72.5,0,0,2,1,128,187,22.1,7.4,5/40,48,0,10.5,1
+PL012,Rishabh Pant,Delhi Capitals,Wicket-Keeper,Indian,26,98,92,2838,128,34.6,148.2,1,18,225,185,0,0,,,,78,25,16.0,2
+PL013,Chris Gayle,Punjab Kings,Batsman,West Indian,44,142,138,4965,175,40.2,148.9,6,34,380,320,,0,0,,,,42,0,13.0,1
+PL014,Andre Russell,Kolkata Knight Riders,All-Rounder,West Indian,35,105,88,2350,88,35.6,178.5,0,16,165,215,98,89,26.8,9.1,4/20,58,0,14.0,2
+PL015,Trent Boult,Rajasthan Royals,Bowler,New Zealander,34,78,5,12,8,2.0,85.4,0,0,1,1,76,95,23.5,7.2,4/18,28,0,11.0,1
+PL016,Shikhar Dhawan,Punjab Kings,Batsman,Indian,38,206,202,6244,97,34.8,126.5,0,51,720,175,0,0,,,,72,0,13.5,1
+PL017,Ravindra Jadeja,Chennai Super Kings,All-Rounder,Indian,35,210,158,2502,62,22.3,124.8,0,5,195,95,188,132,28.5,7.2,5/16,112,0,14.0,2
+PL018,Kieron Pollard,Mumbai Indians,All-Rounder,West Indian,36,189,168,3412,83,30.5,155.4,0,16,220,260,85,69,32.1,9.0,3/16,88,0,13.0,1
+PL019,Pat Cummins,Kolkata Knight Riders,Bowler,Australian,30,48,8,35,14,5.8,105.2,0,0,3,2,46,55,28.4,8.4,4/34,22,0,20.5,1
+PL020,Ishan Kishan,Mumbai Indians,Wicket-Keeper,Indian,25,88,84,2500,99,31.2,135.8,0,18,230,152,0,0,,,,52,12,14.5,1
+PL021,Sam Curran,Punjab Kings,All-Rounder,English,25,52,45,820,55,21.5,125.5,0,3,68,45,50,42,28.8,8.8,4/11,28,0,18.5,1
+PL022,Dinesh Karthik,Royal Challengers Bangalore,Wicket-Keeper,Indian,38,229,180,4200,83,25.8,148.5,0,12,285,188,0,0,,,,152,28,11.5,1
+PL023,Kagiso Rabada,Delhi Capitals,Bowler,South African,28,62,6,18,8,3.0,88.5,0,0,2,1,60,72,22.8,7.8,4/21,18,0,15.5,1
+PL024,Faf du Plessis,Royal Challengers Bangalore,Batsman,South African,39,130,128,3800,96,32.8,130.5,0,30,385,168,0,0,,,,68,0,14.0,1
+PL025,Sanju Samson,Rajasthan Royals,Wicket-Keeper,Indian,29,142,138,3800,119,29.2,140.5,1,26,310,195,0,0,,,,88,22,16.5,2
+PL026,Glenn Maxwell,Royal Challengers Bangalore,All-Rounder,Australian,35,115,108,2950,95,29.8,162.8,0,22,225,210,88,60,32.5,9.2,3/25,62,0,16.0,1
+PL027,Mohammed Shami,Gujarat Titans,Bowler,Indian,33,72,5,15,8,3.0,78.5,0,0,1,1,70,88,26.4,8.5,5/18,22,0,11.5,1
+PL028,Quinton de Kock,Lucknow Super Giants,Wicket-Keeper,South African,30,88,85,2650,140,33.5,135.8,2,18,268,140,0,0,,,,45,15,13.0,1
+PL029,Moeen Ali,Chennai Super Kings,All-Rounder,English,36,72,62,1250,58,22.8,138.5,0,6,112,72,68,52,32.8,8.8,3/28,38,0,10.0,1
+PL030,Shubman Gill,Gujarat Titans,Batsman,Indian,24,85,82,2850,129,38.5,135.5,2,22,295,132,0,0,,,,38,0,17.0,2
